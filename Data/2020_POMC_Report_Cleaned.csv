@@ -1,0 +1,1192 @@
+fullName,Month_num,Month_name,drugName,qty_supplied,Ug_Price,US_Price,Unit_Pack,UG_PPM,US_PPM,UG_PPP,US_PPP,prescribedByName
+Agnes Nabulesa,7,July,Acyclovir,138,7798,2.11,100,77.98,0.021,10761.24,2.9,Dr_Victoria
+Maurencia Nakabugo,1,January,Albendazole,7,10200,2.76,100,102,0.028,714,0.2,Sarah
+Ramathan Kivumbi,1,January,Albendazole,17,10200,2.76,100,102,0.028,1734,0.48,Jimmy
+Catherine Nakimuli,2,February,Albendazole,19,10200,2.76,100,102,0.028,1938,0.53,Jimmy
+Hasifah Nabweteme,2,February,Albendazole,19,10200,2.76,100,102,0.028,1938,0.53,Jimmy
+Sherinah Nakatudde,2,February,Albendazole,3,10200,2.76,100,102,0.028,306,0.08,Sarah
+Sili Nampiija,4,April,Albendazole,20,10200,2.76,100,102,0.028,2040,0.56,Jimmy
+Prisco Muhumuza,5,May,Albendazole,14,10200,2.76,100,102,0.028,1428,0.39,Jimmy
+Sarah Nambuya,5,May,Albendazole,8,10200,2.76,100,102,0.028,816,0.22,Jimmy
+Peter Lubwama,6,June,Albendazole,1,10200,2.76,100,102,0.028,102,0.03,Dr_Victoria
+Jafer Lumu,7,July,Albendazole,14,10200,2.76,100,102,0.028,1428,0.39,Dr_Victoria
+Catherine Namboze,1,January,Amitriptyline,113,4343,1.17,100,43.43,0.012,4907.59,1.36,Sarah
+Hamidah Nansubuga,2,February,Amitriptyline,42,4343,1.17,100,43.43,0.012,1824.06,0.5,Joanne
+Charles Ntale,7,July,Amitriptyline,14,4343,1.17,100,43.43,0.012,608.02,0.17,Dr_Victoria
+Abdala Haman Sonko,1,January,Amoxicillin,22,6000,1.62,100,60,0.016,1320,0.35,Jimmy
+Alex Kafula,1,January,Amoxicillin,120,6000,1.62,100,60,0.016,7200,1.92,Jimmy
+Betty Nabusimba,1,January,Amoxicillin,25,6000,1.62,100,60,0.016,1500,0.4,Nakabugo
+Emmanuel Kamukamu,1,January,Amoxicillin,44,6000,1.62,100,60,0.016,2640,0.7,Nakabugo
+Jonah Kasule,1,January,Amoxicillin,8,6000,1.62,100,60,0.016,480,0.13,Jimmy
+Justine Nakigozi,1,January,Amoxicillin,36,6000,1.62,100,60,0.016,2160,0.58,Sarah
+Muhamad Male,1,January,Amoxicillin,28,6000,1.62,100,60,0.016,1680,0.45,Nakabugo
+Robert Mugwanya,1,January,Amoxicillin,51,6000,1.62,100,60,0.016,3060,0.82,Jimmy
+Shaban Kakooza,1,January,Amoxicillin,38,6000,1.62,100,60,0.016,2280,0.61,Sarah
+Shidulah Nakate,1,January,Amoxicillin,25,6000,1.62,100,60,0.016,1500,0.4,Sarah
+Sofia Nalumu,1,January,Amoxicillin,74,6000,1.62,100,60,0.016,4440,1.18,Nakabugo
+Victoria Nakawesa,1,January,Amoxicillin,72,6000,1.62,100,60,0.016,4320,1.15,Sarah
+Abubaker Nsozi,2,February,Amoxicillin,17,6000,1.62,100,60,0.016,1020,0.27,Jimmy
+ALICE NASSUNA,2,February,Amoxicillin,38,6000,1.62,100,60,0.016,2280,0.61,Nakabugo
+Brandon Wampamba,2,February,Amoxicillin,15,6000,1.62,100,60,0.016,900,0.24,Jimmy
+Charles Nsobya,2,February,Amoxicillin,34,6000,1.62,100,60,0.016,2040,0.54,Joanne
+Daniel Wasswa,2,February,Amoxicillin,122,6000,1.62,100,60,0.016,7320,1.95,Jimmy
+Favour Nakazi,2,February,Amoxicillin,52,6000,1.62,100,60,0.016,3120,0.83,Jimmy
+Geofrey Segawa,2,February,Amoxicillin,19,6000,1.62,100,60,0.016,1140,0.3,Sarah
+Hamudali Musinge,2,February,Amoxicillin,42,6000,1.62,100,60,0.016,2520,0.67,Joanne
+Hasifah Nikuze,2,February,Amoxicillin,71,6000,1.62,100,60,0.016,4260,1.14,Sarah
+Jamada Mugumu,2,February,Amoxicillin,68,6000,1.62,100,60,0.016,4080,1.09,Joanne
+Janat Nalujja,2,February,Amoxicillin,41,6000,1.62,100,60,0.016,2460,0.66,Jimmy
+Jane Nantongo,2,February,Amoxicillin,72,6000,1.62,100,60,0.016,4320,1.15,Joanne
+Jemimah Bukenya,2,February,Amoxicillin,4,6000,1.62,100,60,0.016,240,0.06,Jimmy
+Joan Nabakila,2,February,Amoxicillin,78,6000,1.62,100,60,0.016,4680,1.25,Jimmy
+Klaudia Nabitalo,2,February,Amoxicillin,27,6000,1.62,100,60,0.016,1620,0.43,Jimmy
+Malcom Okoyo,2,February,Amoxicillin,95,6000,1.62,100,60,0.016,5700,1.52,Jimmy
+Mariam Nabaale,2,February,Amoxicillin,48,6000,1.62,100,60,0.016,2880,0.77,Jimmy
+Melda Nanjala,2,February,Amoxicillin,69,6000,1.62,100,60,0.016,4140,1.1,Sarah
+Peruth Nakitende,2,February,Amoxicillin,58,6000,1.62,100,60,0.016,3480,0.93,Jimmy
+Praise Sesanga,2,February,Amoxicillin,46,6000,1.62,100,60,0.016,2760,0.74,Sarah
+Ritah Nakirijja,2,February,Amoxicillin,78,6000,1.62,100,60,0.016,4680,1.25,Claire
+Samuel Lutaya,2,February,Amoxicillin,20,6000,1.62,100,60,0.016,1200,0.32,Jimmy
+Sania Nanfuka,2,February,Amoxicillin,94,6000,1.62,100,60,0.016,5640,1.5,Jimmy
+Shamirah Namirimu,2,February,Amoxicillin,21,6000,1.62,100,60,0.016,1260,0.34,Sarah
+Shanitah Nambooze,2,February,Amoxicillin,19,6000,1.62,100,60,0.016,1140,0.3,Nakabugo
+Sharif Mayambara,2,February,Amoxicillin,25,6000,1.62,100,60,0.016,1500,0.4,Sarah
+Shukran Namyalo,2,February,Amoxicillin,10,6000,1.62,100,60,0.016,600,0.16,Jimmy
+SOFIA NAKONDE,2,February,Amoxicillin,20,6000,1.62,100,60,0.016,1200,0.32,Joanne
+Teopista Nakawesi,2,February,Amoxicillin,310,6000,1.62,100,60,0.016,18600,4.96,Jimmy
+Timothy Luwalira,2,February,Amoxicillin,20,6000,1.62,100,60,0.016,1200,0.32,Joanne
+Wahidah Nandawula,2,February,Amoxicillin,22,6000,1.62,100,60,0.016,1320,0.35,Joanne
+Abdul Shakul Ibrahim Nandrico,3,March,Amoxicillin,2,6000,1.62,100,60,0.016,120,0.03,Jimmy
+Angella Najjuma,3,March,Amoxicillin,51,6000,1.62,100,60,0.016,3060,0.82,Claire
+Eugenio Kisitu,3,March,Amoxicillin,176,6000,1.62,100,60,0.016,10560,2.82,Jimmy
+Jalia Nalumansi,3,March,Amoxicillin,81,6000,1.62,100,60,0.016,4860,1.3,Claire
+Jane Nambatya,3,March,Amoxicillin,22,6000,1.62,100,60,0.016,1320,0.35,Claire
+Joan Nampera,3,March,Amoxicillin,30,6000,1.62,100,60,0.016,1800,0.48,Jimmy
+Maria Birungi,3,March,Amoxicillin,16,6000,1.62,100,60,0.016,960,0.26,Sarah
+Mariam Nansamba,3,March,Amoxicillin,15,6000,1.62,100,60,0.016,900,0.24,Claire
+Muhamad Abutwahi,3,March,Amoxicillin,33,6000,1.62,100,60,0.016,1980,0.53,Jimmy
+Nicholas Sentamu,3,March,Amoxicillin,20,6000,1.62,100,60,0.016,1200,0.32,Jimmy
+Precious  Nakatto,3,March,Amoxicillin,8,6000,1.62,100,60,0.016,480,0.13,Nakabugo
+Rashid Luguma,3,March,Amoxicillin,21,6000,1.62,100,60,0.016,1260,0.34,Sarah
+Ryon Wamala,3,March,Amoxicillin,11,6000,1.62,100,60,0.016,660,0.18,Jimmy
+Alice Nalubwama,4,April,Amoxicillin,42,6000,1.62,100,60,0.016,2520,0.67,Jimmy
+Jessica Nalubwama,4,April,Amoxicillin,20,6000,1.62,100,60,0.016,1200,0.32,Jimmy
+Kabugo  Shafiki,4,April,Amoxicillin,36,6000,1.62,100,60,0.016,2160,0.58,Jimmy
+Samuel Katumba,4,April,Amoxicillin,70,6000,1.62,100,60,0.016,4200,1.12,Jimmy
+Teddy Naziiwa,4,April,Amoxicillin,13,6000,1.62,100,60,0.016,780,0.21,Jimmy
+Irene Nampiija,5,May,Amoxicillin,42,6000,1.62,100,60,0.016,2520,0.67,Jimmy
+Patrick Mugambe,5,May,Amoxicillin,38,6000,1.62,100,60,0.016,2280,0.61,Jimmy
+Ruth Nakyanzi,5,May,Amoxicillin,2,6000,1.62,100,60,0.016,120,0.03,Jimmy
+BEATRICE Nakabugo,6,June,Amoxicillin,51,6000,1.62,100,60,0.016,3060,0.82,Sarah
+Bitamisi Namatovu,6,June,Amoxicillin,27,6000,1.62,100,60,0.016,1620,0.43,Nakabugo
+Dika Maruju,6,June,Amoxicillin,27,6000,1.62,100,60,0.016,1620,0.43,Sarah
+Edith Namugambe,6,June,Amoxicillin,35,6000,1.62,100,60,0.016,2100,0.56,Dr_Victoria
+Esther Najjuko,6,June,Amoxicillin,34,6000,1.62,100,60,0.016,2040,0.54,Jimmy
+Henry Seruwungu,6,June,Amoxicillin,2,6000,1.62,100,60,0.016,120,0.03,Sarah
+Jesca Nakibuuka,6,June,Amoxicillin,30,6000,1.62,100,60,0.016,1800,0.48,Dr_Victoria
+Joan Kirabo,6,June,Amoxicillin,39,6000,1.62,100,60,0.016,2340,0.62,Dr_Victoria
+Joel Sentongo,6,June,Amoxicillin,17,6000,1.62,100,60,0.016,1020,0.27,Jimmy
+Joyce Nabwami,6,June,Amoxicillin,24,6000,1.62,100,60,0.016,1440,0.38,Dr_Victoria
+Monica Kirabo,6,June,Amoxicillin,29,6000,1.62,100,60,0.016,1740,0.46,Joanne
+Murisid Njuki,6,June,Amoxicillin,2,6000,1.62,100,60,0.016,120,0.03,Sarah
+Robert Kironde,6,June,Amoxicillin,147,6000,1.62,100,60,0.016,8820,2.35,Dr_Victoria
+Sarah Nalubega,6,June,Amoxicillin,31,6000,1.62,100,60,0.016,1860,0.5,Sarah
+Serwano Nsereko Mbuga,6,June,Amoxicillin,16,6000,1.62,100,60,0.016,960,0.26,Sarah
+Shifrah Jazira Nankya,6,June,Amoxicillin,4,6000,1.62,100,60,0.016,240,0.06,Dr_Victoria
+Swaburah Nabukera,6,June,Amoxicillin,14,6000,1.62,100,60,0.016,840,0.22,Nakabugo
+Aisha Nakiryowa,7,July,Amoxicillin,80,6000,1.62,100,60,0.016,4800,1.28,Dr_Victoria
+Amina Nakabili,7,July,Amoxicillin,15,6000,1.62,100,60,0.016,900,0.24,Dr_Victoria
+Ciara Mutoni,7,July,Amoxicillin,16,6000,1.62,100,60,0.016,960,0.26,Sarah
+Hasifah Nabuule,7,July,Amoxicillin,43,6000,1.62,100,60,0.016,2580,0.69,Dr_Victoria
+Pavin Nabaggala,7,July,Amoxicillin,24,6000,1.62,100,60,0.016,1440,0.38,Dr_Victoria
+Yasin Akola,7,July,Amoxicillin,2,6000,1.62,100,60,0.016,120,0.03,Dr_Victoria
+Benita Namazzi,8,August,Amoxicillin,1,6000,1.62,100,60,0.016,60,0.02,Dr_Victoria
+David Kisaliita,8,August,Amoxicillin,53,6000,1.62,100,60,0.016,3180,0.85,Dr_Victoria
+Kamoga Raymond,8,August,Amoxicillin,7,6000,1.62,100,60,0.016,420,0.11,Nakabugo
+Margret Nakawesi,8,August,Amoxicillin,75,6000,1.62,100,60,0.016,4500,1.2,Dr_Victoria
+Noreen Namujju,8,August,Amoxicillin,25,6000,1.62,100,60,0.016,1500,0.4,Joanne
+Shalom Nabujja,8,August,Amoxicillin,3,6000,1.62,100,60,0.016,180,0.05,Dr_Victoria
+Vincent Sekanjako,8,August,Amoxicillin,90,6000,1.62,100,60,0.016,5400,1.44,Dr_Victoria
+Abdulrahman Semakula,5,May,Amoxiclav,2,10618,2.87,20,530.9,0.144,1061.8,0.29,Claire
+Angellah Nalubwama,1,January,Amoxkid,42,2200,0.59,1,2200,0.59,92400,24.78,Sarah
+Gladys Nabukenya,1,January,Amoxkid,19,2200,0.59,1,2200,0.59,41800,11.21,Sarah
+Justine Rwiliriza,1,January,Amoxkid,25,2200,0.59,1,2200,0.59,55000,14.75,Sarah
+Martine Sekubunga,1,January,Amoxkid,18,2200,0.59,1,2200,0.59,39600,10.62,Sarah
+Melisa Kirabo,1,January,Amoxkid,20,2200,0.59,1,2200,0.59,44000,11.8,Sarah
+Bashira Nangendo,3,March,Amoxkid,7,2200,0.59,1,2200,0.59,15400,4.13,Jimmy
+Shafic Kizito,3,March,Amoxkid,2,2200,0.59,1,2200,0.59,4400,1.18,Jimmy
+Elijah Mutebi,4,April,Amoxkid,6,2200,0.59,1,2200,0.59,13200,3.54,Jimmy
+Winnie Nabasumba,1,January,Amoxycillin,136,1792,0.48,20,89.6,0.024,12185.6,3.26,Sarah
+Berna Nakijoba,1,January,Ampiclox,33,16800,4.54,100,168,0.045,5544,1.49,Sarah
+OCHAI MUSISI,1,January,Ampiclox,7,16800,4.54,100,168,0.045,1176,0.32,Sarah
+Patience Nalumansi,1,January,Ampiclox,78,16800,4.54,100,168,0.045,13104,3.51,Sarah
+Paul Kabuye,1,January,Ampiclox,32,16800,4.54,100,168,0.045,5376,1.44,Nakabugo
+Phabiano Byakika,1,January,Ampiclox,32,16800,4.54,100,168,0.045,5376,1.44,Nakabugo
+Philp Amati,1,January,Ampiclox,33,16800,4.54,100,168,0.045,5544,1.49,Sarah
+Sarah Nampewo,1,January,Ampiclox,40,16800,4.54,100,168,0.045,6720,1.8,Jimmy
+Sumayiya Nabaggala,1,January,Ampiclox,21,16800,4.54,100,168,0.045,3528,0.95,Sarah
+Charles Wasswa,2,February,Ampiclox,157,16800,4.54,100,168,0.045,26376,7.07,Joanne
+SUMINI NAWUDO,2,February,Ampiclox,6,16800,4.54,100,168,0.045,1008,0.27,Joanne
+Teddy Namutebi,2,February,Ampiclox,171,16800,4.54,100,168,0.045,28728,7.7,Joanne
+Easther Nakawesa,3,March,Ampiclox,2,16800,4.54,100,168,0.045,336,0.09,Jimmy
+Samuel Kangave,3,March,Ampiclox,33,16800,4.54,100,168,0.045,5544,1.49,Sarah
+Henry Ssebagala,4,April,Ampiclox,36,16800,4.54,100,168,0.045,6048,1.62,Jimmy
+Isa Mushamba,4,April,Ampiclox,27,16800,4.54,100,168,0.045,4536,1.22,Claire
+Kamya Richard,4,April,Ampiclox,41,16800,4.54,100,168,0.045,6888,1.85,Jimmy
+Madina Nantege,4,April,Ampiclox,36,16800,4.54,100,168,0.045,6048,1.62,Jimmy
+Mariam Nalujja,4,April,Ampiclox,30,16800,4.54,100,168,0.045,5040,1.35,Jimmy
+Rashida Nalukenge,4,April,Ampiclox,33,16800,4.54,100,168,0.045,5544,1.49,Jimmy
+Ian Katula,5,May,Ampiclox,26,16800,4.54,100,168,0.045,4368,1.17,Jimmy
+Joyce Nalunkuuma,5,May,Ampiclox,64,16800,4.54,100,168,0.045,10752,2.88,Jimmy
+Ritah Nanjego,5,May,Ampiclox,35,16800,4.54,100,168,0.045,5880,1.58,Claire
+Catherine Nantege,6,June,Ampiclox,209,16800,4.54,100,168,0.045,35112,9.41,Dr_Victoria
+Irene Nakijoba,6,June,Ampiclox,33,16800,4.54,100,168,0.045,5544,1.49,Sarah
+Nicholas Semwanga,6,June,Ampiclox,130,16800,4.54,100,168,0.045,21840,5.85,Dr_Victoria
+Simonpeter Emukule,6,June,Ampiclox,19,16800,4.54,100,168,0.045,3192,0.86,Jimmy
+Daniel Kyagera,7,July,Ampiclox,27,16800,4.54,100,168,0.045,4536,1.22,Dr_Victoria
+Davis Kalanzi,7,July,Ampiclox,36,16800,4.54,100,168,0.045,6048,1.62,Dr_Victoria
+Godfrey Ssekitto,7,July,Ampiclox,27,16800,4.54,100,168,0.045,4536,1.22,Dr_Victoria
+Rose Namutebi,7,July,Ampiclox,98,16800,4.54,100,168,0.045,16464,4.41,Dr_Victoria
+Sumayiya Nakandi,7,July,Ampiclox,35,16800,4.54,100,168,0.045,5880,1.58,Dr_Victoria
+Deborah Namukisa,8,August,Ampiclox,25,16800,4.54,100,168,0.045,4200,1.13,Dr_Victoria
+Fausta Nabisere,8,August,Ampiclox,11,16800,4.54,100,168,0.045,1848,0.5,Dr_Victoria
+Felix Mubiru,8,August,Ampiclox,7,16800,4.54,100,168,0.045,1176,0.32,Dr_Victoria
+Margret Nalwoga,8,August,Ampiclox,19,16800,4.54,100,168,0.045,3192,0.86,Dr_Victoria
+ Zainah Nampima,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Abudul Shakul Serunkuma,1,January,Artemether_Lumefantrine,50,4680,1.27,24,195,0.053,9750,2.65,Sarah
+Agness Amoiti,1,January,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Sarah
+Aidah Nanyange,1,January,Artemether_Lumefantrine,47,4680,1.27,24,195,0.053,9165,2.49,Nakabugo
+Anet Nalubale,1,January,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Claire
+Annet Nabaabi,1,January,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Annet Nakanjako,1,January,Artemether_Lumefantrine,87,4680,1.27,24,195,0.053,16965,4.61,Jimmy
+Brendah Namaganda,1,January,Artemether_Lumefantrine,45,4680,1.27,24,195,0.053,8775,2.39,Jimmy
+Brian Ssemwogerere,1,January,Artemether_Lumefantrine,93,4680,1.27,24,195,0.053,18135,4.93,Nakabugo
+Carol Nabaale,1,January,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Nakabugo
+Catherine Nabbuto,1,January,Artemether_Lumefantrine,68,4680,1.27,24,195,0.053,13260,3.6,Nakabugo
+Cissy Nakaticoco,1,January,Artemether_Lumefantrine,38,4680,1.27,24,195,0.053,7410,2.01,Jimmy
+Daudi Sali,1,January,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Claire
+Delison Tulyamusiima,1,January,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Dennises Nakabubi,1,January,Artemether_Lumefantrine,15,4680,1.27,24,195,0.053,2925,0.8,Claire
+Easther Nakiwu,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Edrine Hangura,1,January,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Sarah
+Edward Mutumba,1,January,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Sarah
+Evelyn Byakatonda,1,January,Artemether_Lumefantrine,59,4680,1.27,24,195,0.053,11505,3.13,Nakabugo
+Falisiyu Katande,1,January,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Sarah
+Faruhia Nakulima,1,January,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Sarah
+Florence Nandawula,1,January,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Getrude Nampiija ,1,January,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Sarah
+Godfrey Giita,1,January,Artemether_Lumefantrine,60,4680,1.27,24,195,0.053,11700,3.18,Jimmy
+Grace Namirimu,1,January,Artemether_Lumefantrine,58,4680,1.27,24,195,0.053,11310,3.07,Nakabugo
+Hamidu Kalyesubula,1,January,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Sarah
+Hassan Bukenya,1,January,Artemether_Lumefantrine,37,4680,1.27,24,195,0.053,7215,1.96,Sarah
+Herbert Ssempala,1,January,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Isiah Sentamu,1,January,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Sarah
+Jackline Nantumbwe,1,January,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Sarah
+Jalia Nanfuka,1,January,Artemether_Lumefantrine,148,4680,1.27,24,195,0.053,28860,7.84,Nakabugo
+Jane Nanyonjo,1,January,Artemether_Lumefantrine,64,4680,1.27,24,195,0.053,12480,3.39,Sarah
+John Suuna,1,January,Artemether_Lumefantrine,78,4680,1.27,24,195,0.053,15210,4.13,Sarah
+Johnson Mawejje,1,January,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+JONATHAN BIYINZIKA,1,January,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Jonathan Katumba,1,January,Artemether_Lumefantrine,89,4680,1.27,24,195,0.053,17355,4.72,Sarah
+Joseph Kiyaga,1,January,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Sarah
+Jovia Nankya,1,January,Artemether_Lumefantrine,67,4680,1.27,24,195,0.053,13065,3.55,Jimmy
+Judith Babirye,1,January,Artemether_Lumefantrine,98,4680,1.27,24,195,0.053,19110,5.19,Claire
+Juniour Mwesijje ,1,January,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Sarah
+Kareb Matanda,1,January,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Sarah
+Mahaddi Ssemwogerell,1,January,Artemether_Lumefantrine,66,4680,1.27,24,195,0.053,12870,3.5,Claire
+Maria Nankya,1,January,Artemether_Lumefantrine,116,4680,1.27,24,195,0.053,22620,6.15,Jimmy
+Milly Nakanwagi,1,January,Artemether_Lumefantrine,72,4680,1.27,24,195,0.053,14040,3.82,Claire
+Moreen Namatovu,1,January,Artemether_Lumefantrine,101,4680,1.27,24,195,0.053,19695,5.35,Claire
+Muhamad Muyomba,1,January,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Sarah
+Musa Moses Mubiru,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Musisi Ochaya,1,January,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Nakabugo
+Mwanje Samuel,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Nuru Nakato,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Ogra Atim,1,January,Artemether_Lumefantrine,15,4680,1.27,24,195,0.053,2925,0.8,Sarah
+Partric Ssenkumba,1,January,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Jimmy
+Pius Kiyuba,1,January,Artemether_Lumefantrine,45,4680,1.27,24,195,0.053,8775,2.39,Sarah
+Praise Ndagire,1,January,Artemether_Lumefantrine,32,4680,1.27,24,195,0.053,6240,1.7,Nakabugo
+Pritty Namulinde,1,January,Artemether_Lumefantrine,41,4680,1.27,24,195,0.053,7995,2.17,Nakabugo
+Rahimu  Nduga,1,January,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Sarah
+Raufu Katende,1,January,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Resty Nalule,1,January,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Rhoda Nalumansi,1,January,Artemether_Lumefantrine,123,4680,1.27,24,195,0.053,23985,6.52,Claire
+Robert  Kavuma,1,January,Artemether_Lumefantrine,66,4680,1.27,24,195,0.053,12870,3.5,Nakabugo
+Roy Nanfuka,1,January,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Samson Sseguja,1,January,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Jimmy
+Samuson Ssegujja,1,January,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Claire
+Sarah Nakiwu,1,January,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Nakabugo
+Sarah Nampiima,1,January,Artemether_Lumefantrine,95,4680,1.27,24,195,0.053,18525,5.04,Claire
+Sarah Nampima,1,January,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Claire
+Shailah Nakazzi,1,January,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Shifrah Naluwoza,1,January,Artemether_Lumefantrine,67,4680,1.27,24,195,0.053,13065,3.55,Claire
+Sofia Nassaka,1,January,Artemether_Lumefantrine,26,4680,1.27,24,195,0.053,5070,1.38,Jimmy
+Speranta Nakyanzi,1,January,Artemether_Lumefantrine,77,4680,1.27,24,195,0.053,15015,4.08,Nakabugo
+Sudat Nabagala,1,January,Artemether_Lumefantrine,41,4680,1.27,24,195,0.053,7995,2.17,Nakabugo
+Sulaiman Kato,1,January,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Nakabugo
+Sumayiya Namala,1,January,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Sarah
+Thomas Luwalila,1,January,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Nakabugo
+Veronica Nasanga,1,January,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Jimmy
+VICENT KIYEMBA,1,January,Artemether_Lumefantrine,219,4680,1.27,24,195,0.053,42705,11.61,Sarah
+Zaharah Nassali,1,January,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Jimmy
+Asma Zalwango,2,February,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Barkri Naduli,2,February,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Chalvin Kisakye,2,February,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Jimmy
+Christine Ndagire,2,February,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Sarah
+Daniel Kiyingi,2,February,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Jimmy
+Daphine Awori,2,February,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Jimmy
+Dickson Bukenya,2,February,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Jimmy
+Divine Nandugga,2,February,Artemether_Lumefantrine,2,4680,1.27,24,195,0.053,390,0.11,Jimmy
+Elijah Ssebintu,2,February,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Emma Kawesa,2,February,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Jimmy
+Emmanuel Mukuuli,2,February,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Jimmy
+Fatinah Baseka,2,February,Artemether_Lumefantrine,70,4680,1.27,24,195,0.053,13650,3.71,Jimmy
+Florence Nafura,2,February,Artemether_Lumefantrine,44,4680,1.27,24,195,0.053,8580,2.33,Jimmy
+Fruque Matovu,2,February,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Nakabugo
+Galvin Kintu,2,February,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Joanne
+Grace Namazzi,2,February,Artemether_Lumefantrine,52,4680,1.27,24,195,0.053,10140,2.76,Jimmy
+Grace Namutebi,2,February,Artemether_Lumefantrine,39,4680,1.27,24,195,0.053,7605,2.07,Jimmy
+Haruna Mukiibi,2,February,Artemether_Lumefantrine,23,4680,1.27,24,195,0.053,4485,1.22,Jimmy
+Huzaifah Serunkuma,2,February,Artemether_Lumefantrine,35,4680,1.27,24,195,0.053,6825,1.86,Jimmy
+Irene Nakyembe,2,February,Artemether_Lumefantrine,38,4680,1.27,24,195,0.053,7410,2.01,Jimmy
+Jamil Bugembe,2,February,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Jeremiah Kone,2,February,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Jimmy
+Jesca Nakagigo,2,February,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Jimmy
+Joram Mutagubya,2,February,Artemether_Lumefantrine,48,4680,1.27,24,195,0.053,9360,2.54,Sarah
+Josephine Namujju,2,February,Artemether_Lumefantrine,103,4680,1.27,24,195,0.053,20085,5.46,Sarah
+Jovan Kassozzi,2,February,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Jovan Walugembe,2,February,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Jimmy
+Joyce Nalulungi,2,February,Artemether_Lumefantrine,104,4680,1.27,24,195,0.053,20280,5.51,Jimmy
+Justine Nambooze,2,February,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Justine Nantanda,2,February,Artemether_Lumefantrine,15,4680,1.27,24,195,0.053,2925,0.8,Joanne
+Karen Nakigudde,2,February,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Joanne
+Leticia Mukisa,2,February,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Lillian Nampiima,2,February,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Jimmy
+Madrine Nankya,2,February,Artemether_Lumefantrine,135,4680,1.27,24,195,0.053,26325,7.16,Claire
+Moses Senyonga,2,February,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Sarah
+Muhammed Wasswa,2,February,Artemether_Lumefantrine,116,4680,1.27,24,195,0.053,22620,6.15,Jimmy
+Patricia Nakigozi,2,February,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Joanne
+Rashida Nanjala,2,February,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Sarah
+Rashidah Najjemba,2,February,Artemether_Lumefantrine,38,4680,1.27,24,195,0.053,7410,2.01,Jimmy
+Rashidah Nansamba,2,February,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Sarah
+Resty Naluyombya,2,February,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Sarah
+Richard Kansiime,2,February,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Shadiah Nakitto,2,February,Artemether_Lumefantrine,108,4680,1.27,24,195,0.053,21060,5.72,Nakabugo
+Shadic Ntale,2,February,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Shamirah Nakibirige,2,February,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Joanne
+Solomon Kinene,2,February,Artemether_Lumefantrine,91,4680,1.27,24,195,0.053,17745,4.82,Joanne
+Sylivia  Zalwango,2,February,Artemether_Lumefantrine,72,4680,1.27,24,195,0.053,14040,3.82,Joanne
+Victoria Kanyesigye,2,February,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Joanne
+Viola Nakazibwe,2,February,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Yusuf  Musisi,2,February,Artemether_Lumefantrine,37,4680,1.27,24,195,0.053,7215,1.96,Sarah
+Abraham Nakabale ,3,March,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Sarah
+Andrew Sselubowa,3,March,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Claire
+Angel Nalubwama,3,March,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Joanne
+Angella Naluyima,3,March,Artemether_Lumefantrine,54,4680,1.27,24,195,0.053,10530,2.86,Jimmy
+Bitijjuma Nawajji,3,March,Artemether_Lumefantrine,99,4680,1.27,24,195,0.053,19305,5.25,Nakabugo
+Catherine Nabuuto,3,March,Artemether_Lumefantrine,46,4680,1.27,24,195,0.053,8970,2.44,Nakabugo
+Christine Nalutaya,3,March,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Nakabugo
+David Ggabula,3,March,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Nakabugo
+Dennis Ntege,3,March,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Sarah
+Fausta Nakitende,3,March,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Florence Natimba,3,March,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Sarah
+Francis Kawesa,3,March,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Gloria Nankya,3,March,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Hajarah Nalumansi,3,March,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Jimmy
+Harriet Nassaka,3,March,Artemether_Lumefantrine,37,4680,1.27,24,195,0.053,7215,1.96,Jimmy
+Irene Nakembe,3,March,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Claire
+Isaac Musaazi,3,March,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Jimmy
+Jastia Lujja,3,March,Artemether_Lumefantrine,14,4680,1.27,24,195,0.053,2730,0.74,Joanne
+Joan Obizwiya,3,March,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Johnson Kiku,3,March,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Jonah Kyaze,3,March,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Jimmy
+Joshua Birnomuhangi,3,March,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Jovan Kalule,3,March,Artemether_Lumefantrine,4,4680,1.27,24,195,0.053,780,0.21,Jimmy
+Karim Kanyike,3,March,Artemether_Lumefantrine,39,4680,1.27,24,195,0.053,7605,2.07,Sarah
+KETRA NAKABUGO,3,March,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Jimmy
+Mathias Jakisa,3,March,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Jimmy
+Miracle Nalukwago,3,March,Artemether_Lumefantrine,45,4680,1.27,24,195,0.053,8775,2.39,Jimmy
+Moses Mpiima,3,March,Artemether_Lumefantrine,23,4680,1.27,24,195,0.053,4485,1.22,Jimmy
+Namusisi Jane,3,March,Artemether_Lumefantrine,152,4680,1.27,24,195,0.053,29640,8.06,Nakabugo
+Owen Kusasira,3,March,Artemether_Lumefantrine,20,4680,1.27,24,195,0.053,3900,1.06,Jimmy
+Peruth Nagujja,3,March,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Jimmy
+Pius Wasswa,3,March,Artemether_Lumefantrine,2,4680,1.27,24,195,0.053,390,0.11,Jimmy
+Precious  Nakato,3,March,Artemether_Lumefantrine,2,4680,1.27,24,195,0.053,390,0.11,Jimmy
+Rebecca Nampa,3,March,Artemether_Lumefantrine,264,4680,1.27,24,195,0.053,51480,13.99,Sarah
+Resty Nabisinde,3,March,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Robinah Lumala,3,March,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Claire
+Rona Nassuna,3,March,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Joanne
+Shadrack Damba,3,March,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Jimmy
+Shanitah Namatovu,3,March,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Nakabugo
+Sudaisi Mubiru,3,March,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Jimmy
+Sulaiman Isabirye,3,March,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Sylvia Nakiberu,3,March,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Tawufik Kayiwa,3,March,Artemether_Lumefantrine,63,4680,1.27,24,195,0.053,12285,3.34,Nakabugo
+Wasswa Nakayiza,3,March,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Jimmy
+Wasswa Sekibuto,3,March,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Jimmy
+Beatrice  Akite,4,April,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Jimmy
+Benard Matovu,4,April,Artemether_Lumefantrine,41,4680,1.27,24,195,0.053,7995,2.17,Claire
+Edith Namutebi,4,April,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Claire
+Elijah Kawuuma,4,April,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Jimmy
+Esther Nakimuli,4,April,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Jimmy
+Farida Nakatunde,4,April,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Jimmy
+Florence Nalubega,4,April,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Claire
+Fred Kiijoba,4,April,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Claire
+Hasifah Nalugya,4,April,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Claire
+Husein Ssentubwe,4,April,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Jimmy
+Jairah Mutagubya,4,April,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Claire
+James Buyondo,4,April,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Jimmy
+Jeremiah Mutagubya,4,April,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Claire
+Jonathan Mugerwa,4,April,Artemether_Lumefantrine,70,4680,1.27,24,195,0.053,13650,3.71,Jimmy
+Jovia Nalwoga,4,April,Artemether_Lumefantrine,118,4680,1.27,24,195,0.053,23010,6.25,Jimmy
+Kasifa Wampamba,4,April,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Claire
+Kintu Isham,4,April,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Claire
+Latifa Nabossa,4,April,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Claire
+Luguma Rashid,4,April,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Claire
+Martha Achieng,4,April,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Claire
+Mugerwa Lwanga,4,April,Artemether_Lumefantrine,32,4680,1.27,24,195,0.053,6240,1.7,Jimmy
+Mutesi  Maria,4,April,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Jimmy
+Nabukenya Shamira,4,April,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Claire
+Nagujja Hanisha,4,April,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Jimmy
+Nkajja Ukasha,4,April,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Ntambi Dirisa,4,April,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Jimmy
+Rashid Tumuhembise,4,April,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Robinah Nakato,4,April,Artemether_Lumefantrine,71,4680,1.27,24,195,0.053,13845,3.76,Jimmy
+Rose Achenyi,4,April,Artemether_Lumefantrine,69,4680,1.27,24,195,0.053,13455,3.66,Claire
+Sande Ssenyonga,4,April,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Claire
+Sandra Nalure,4,April,Artemether_Lumefantrine,32,4680,1.27,24,195,0.053,6240,1.7,Claire
+Semujju Kintu,4,April,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Jimmy
+Shanitah Nakibirango,4,April,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Claire
+Sharon Anguko,4,April,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Jimmy
+Vanessa Nakiyingi,4,April,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Claire
+Zafarani Namuganga,4,April,Artemether_Lumefantrine,47,4680,1.27,24,195,0.053,9165,2.49,Jimmy
+Zaharah Nanshamba,4,April,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Claire
+Zayitoni Gayita,4,April,Artemether_Lumefantrine,46,4680,1.27,24,195,0.053,8970,2.44,Claire
+Abdallah Lujja,5,May,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Aisha Namubiru,5,May,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Jimmy
+Aisha Namuganwa,5,May,Artemether_Lumefantrine,108,4680,1.27,24,195,0.053,21060,5.72,Jimmy
+Andrew Kasirye,5,May,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Jimmy
+Angel Ahebwa,5,May,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Bony Walusimbi,5,May,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Claire
+Brian Wavamuno,5,May,Artemether_Lumefantrine,72,4680,1.27,24,195,0.053,14040,3.82,Joanne
+Brivia Najja,5,May,Artemether_Lumefantrine,91,4680,1.27,24,195,0.053,17745,4.82,Jimmy
+Christine Kayinza,5,May,Artemether_Lumefantrine,55,4680,1.27,24,195,0.053,10725,2.92,Jimmy
+Derrick Tugume,5,May,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Claire
+Destiny Nabawanda,5,May,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Jimmy
+Emilly Ndagire,5,May,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Jimmy
+Esther Naluwembe,5,May,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Jimmy
+Gilbert Kilangwa,5,May,Artemether_Lumefantrine,77,4680,1.27,24,195,0.053,15015,4.08,Claire
+Hanifah Namuli,5,May,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Claire
+Ibrahim Kabogoza,5,May,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Jimmy
+Issa Wasswa,5,May,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Claire
+Jalia Nanyunja,5,May,Artemether_Lumefantrine,60,4680,1.27,24,195,0.053,11700,3.18,Joanne
+Janefrancis Alemia,5,May,Artemether_Lumefantrine,14,4680,1.27,24,195,0.053,2730,0.74,Jimmy
+Jesca  Nakanwagi,5,May,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Jimmy
+Joline Awino,5,May,Artemether_Lumefantrine,20,4680,1.27,24,195,0.053,3900,1.06,Joanne
+Josephine Nalugo,5,May,Artemether_Lumefantrine,37,4680,1.27,24,195,0.053,7215,1.96,Joanne
+Laila Nandijja,5,May,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Jimmy
+Lania Nalukwago,5,May,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Jimmy
+Leticia Nanyonjo,5,May,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Claire
+Lilliane Naketi,5,May,Artemether_Lumefantrine,168,4680,1.27,24,195,0.053,32760,8.9,Jimmy
+Lumu Rashid,5,May,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Claire
+Madalena Najjemba,5,May,Artemether_Lumefantrine,75,4680,1.27,24,195,0.053,14625,3.98,Jimmy
+Madina Namatovu,5,May,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Jimmy
+Maria Nalugwa,5,May,Artemether_Lumefantrine,37,4680,1.27,24,195,0.053,7215,1.96,Jimmy
+Mariam Nanyonjo,5,May,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Claire
+Mariam Narweyiso,5,May,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+Neithen Nsubuga,5,May,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Jimmy
+Patricia Akuro,5,May,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Joanne
+Pauline Nabbaka,5,May,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Joanne
+Racheal Nansubuga,5,May,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Jimmy
+Rajat Matovu,5,May,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Joanne
+Ramathan Serunkuma,5,May,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Claire
+Richard Tebusweke,5,May,Artemether_Lumefantrine,39,4680,1.27,24,195,0.053,7605,2.07,Joanne
+Sarah Namuga,5,May,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Jimmy
+Sauda Nabaggala,5,May,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Jimmy
+Shakoul Kavuma,5,May,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Joanne
+Shakur Jjemba,5,May,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Jimmy
+Shanice Kilose,5,May,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Jimmy
+Shivan Nakalangi,5,May,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Jimmy
+Ssentongo Christoppher,5,May,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Jimmy
+Taufik Kayiwa,5,May,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Jimmy
+Tony Lubinga,5,May,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Joanne
+Trevor Kalungi,5,May,Artemether_Lumefantrine,35,4680,1.27,24,195,0.053,6825,1.86,Joanne
+Trinity Nakitto,5,May,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Joanne
+Umar Kiyingi,5,May,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Jimmy
+Valence Nalugwa,5,May,Artemether_Lumefantrine,70,4680,1.27,24,195,0.053,13650,3.71,Jimmy
+Viola Najjuma,5,May,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Claire
+Witiney Birungi,5,May,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Jimmy
+Zaharah Nakiwala,5,May,Artemether_Lumefantrine,35,4680,1.27,24,195,0.053,6825,1.86,Jimmy
+Abubaker Sengooba,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Claire
+Aisha Nalunkuma,6,June,Artemether_Lumefantrine,130,4680,1.27,24,195,0.053,25350,6.89,Sarah
+Akram Senyonjo,6,June,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Nakabugo
+Alex Bwire,6,June,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Dr_Victoria
+Alex Kizito,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Alisha Nantale,6,June,Artemether_Lumefantrine,49,4680,1.27,24,195,0.053,9555,2.6,Dr_Victoria
+Amon Bulesa,6,June,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Nakabugo
+Angellah Nalukwago,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Anitah Namiro,6,June,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Badru Kalule,6,June,Artemether_Lumefantrine,51,4680,1.27,24,195,0.053,9945,2.7,Sarah
+Ben Kisitu,6,June,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Jimmy
+Brian Ngodwe,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Brighton Kitenda,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Chrish Seruwagi,6,June,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Sarah
+Christine Namata,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Christne Nagawa,6,June,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Sarah
+Christopher Lutaya,6,June,Artemether_Lumefantrine,29,4680,1.27,24,195,0.053,5655,1.54,Nakabugo
+Claire Nuwamanya,6,June,Artemether_Lumefantrine,58,4680,1.27,24,195,0.053,11310,3.07,Sarah
+Daisy Nanyunja,6,June,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Jimmy
+Dalton Wagaba,6,June,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Sarah
+Dalvin Mukisa,6,June,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Sarah
+Daphine Namusitwa,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Jimmy
+David Matovu,6,June,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Joanne
+Deborah Nakagwa ,6,June,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Sarah
+Douglas Senyange,6,June,Artemether_Lumefantrine,46,4680,1.27,24,195,0.053,8970,2.44,Nakabugo
+Elinah Nabulya,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Enock Kigozi,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Eriasafu Selukwaya,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Nakabugo
+Fahad Sempijja,6,June,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Dr_Victoria
+Fahad Walusimbi,6,June,Artemether_Lumefantrine,39,4680,1.27,24,195,0.053,7605,2.07,Nakabugo
+Faridah Namale,6,June,Artemether_Lumefantrine,82,4680,1.27,24,195,0.053,15990,4.35,Sarah
+Fikrah Nampawuka,6,June,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Nakabugo
+Florence Nakku,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Florence Nalubowa,6,June,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Jimmy
+Gideon Yiga,6,June,Artemether_Lumefantrine,20,4680,1.27,24,195,0.053,3900,1.06,Sarah
+Gloria Nvanungi,6,June,Artemether_Lumefantrine,52,4680,1.27,24,195,0.053,10140,2.76,Dr_Victoria
+Godfrey Sembatya ,6,June,Artemether_Lumefantrine,66,4680,1.27,24,195,0.053,12870,3.5,Sarah
+Habona Sekaka,6,June,Artemether_Lumefantrine,51,4680,1.27,24,195,0.053,9945,2.7,Nakabugo
+Hajarah Nakanwagi,6,June,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Dr_Victoria
+Hannah Namboga,6,June,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Sarah
+Harriet Kayaga,6,June,Artemether_Lumefantrine,67,4680,1.27,24,195,0.053,13065,3.55,Nakabugo
+Immaculate Adikini,6,June,Artemether_Lumefantrine,51,4680,1.27,24,195,0.053,9945,2.7,Sarah
+Isma Sengendo,6,June,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Ismail Nsamba,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Jalia Nakazibwe,6,June,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Sarah
+Jamada Kasozi,6,June,Artemether_Lumefantrine,78,4680,1.27,24,195,0.053,15210,4.13,Sarah
+Jamiah Mbatudde,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Jemimah Nakacwa,6,June,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Nakabugo
+Joasha Onyango,6,June,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Sarah
+Joram Sebagala,6,June,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Nakabugo
+Joram Senabulya,6,June,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Nakabugo
+Joseph  Lumu,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Josire Lugenda,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Jovia Akalot,6,June,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Jimmy
+Krishi Bugembe,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Krizestom Kato,6,June,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Claire
+Leticia Nandago,6,June,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Lukuman Ssali,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Margret Nakigudde,6,June,Artemether_Lumefantrine,123,4680,1.27,24,195,0.053,23985,6.52,Dr_Victoria
+Michael Lukwago,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Monica Namusoke,6,June,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Morris Kasule,6,June,Artemether_Lumefantrine,76,4680,1.27,24,195,0.053,14820,4.03,Dr_Victoria
+Nelly Nsamba,6,June,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Sarah
+Nowerin Adikini ,6,June,Artemether_Lumefantrine,45,4680,1.27,24,195,0.053,8775,2.39,Sarah
+Nuliat Nakatude,6,June,Artemether_Lumefantrine,21,4680,1.27,24,195,0.053,4095,1.11,Nakabugo
+Nulu Nalukenge,6,June,Artemether_Lumefantrine,89,4680,1.27,24,195,0.053,17355,4.72,Sarah
+Patricia Amajong,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Prilla Bonabana,6,June,Artemether_Lumefantrine,88,4680,1.27,24,195,0.053,17160,4.66,Sarah
+Rahimu Sekajja,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Sarah
+Rahma Nakamwa,6,June,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Claire
+Reagan Kalyango,6,June,Artemether_Lumefantrine,89,4680,1.27,24,195,0.053,17355,4.72,Nakabugo
+Reagan Kisitu,6,June,Artemether_Lumefantrine,83,4680,1.27,24,195,0.053,16185,4.4,Jimmy
+Rehemah  Akisa,6,June,Artemether_Lumefantrine,49,4680,1.27,24,195,0.053,9555,2.6,Dr_Victoria
+Rehemah Nansubuga,6,June,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Richard Ssozi,6,June,Artemether_Lumefantrine,55,4680,1.27,24,195,0.053,10725,2.92,Sarah
+Salma Naluwembe,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Salva Tulyatunga,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Sanyu Nakilijja,6,June,Artemether_Lumefantrine,51,4680,1.27,24,195,0.053,9945,2.7,Nakabugo
+Shanat Nanteza,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Nakabugo
+Shaoka Serunkuma,6,June,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Jimmy
+Sharifa Natimba,6,June,Artemether_Lumefantrine,111,4680,1.27,24,195,0.053,21645,5.88,Sarah
+Sharifah Nabirye,6,June,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Nakabugo
+Siama Nabayego,6,June,Artemether_Lumefantrine,57,4680,1.27,24,195,0.053,11115,3.02,Dr_Victoria
+Siraje Nsubuga,6,June,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Dr_Victoria
+Solomon Kibirige,6,June,Artemether_Lumefantrine,15,4680,1.27,24,195,0.053,2925,0.8,Dr_Victoria
+Stella Nayiga,6,June,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Joanne
+Sylivia Nakanwagi,6,June,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Timothy Seruzzi,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Tracy Nanjego,6,June,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Dr_Victoria
+Viola Nyafono,6,June,Artemether_Lumefantrine,74,4680,1.27,24,195,0.053,14430,3.92,Sarah
+Winnie Namagembe,6,June,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Dr_Victoria
+Yudaya Zawede,6,June,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Nakabugo
+Ziad Yiga,6,June,Artemether_Lumefantrine,30,4680,1.27,24,195,0.053,5850,1.59,Jimmy
+ Joshua Kawooya,7,July,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Dr_Victoria
+Allen Nazziwa,7,July,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Sarah
+Alvin Muganza,7,July,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Dr_Victoria
+Ambrose Kibuuka,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Dr_Victoria
+Amina Nakagoro,7,July,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Nakabugo
+Andrew Emadaro,7,July,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Dr_Victoria
+Angella Namayanja,7,July,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Dr_Victoria
+Annet Athieno,7,July,Artemether_Lumefantrine,48,4680,1.27,24,195,0.053,9360,2.54,Dr_Victoria
+Arizik Nakawoya Mirembe,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Asuman Sharifah,7,July,Artemether_Lumefantrine,124,4680,1.27,24,195,0.053,24180,6.57,Nakabugo
+Badiru Kalule,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Catherine Babirima,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Charles Kafeero,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Christine Nalwoga,7,July,Artemether_Lumefantrine,52,4680,1.27,24,195,0.053,10140,2.76,Dr_Victoria
+Christopher Kasule,7,July,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Dr_Victoria
+Clive Kijambu,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Damalie Treasure Nakambugu,7,July,Artemether_Lumefantrine,7,4680,1.27,24,195,0.053,1365,0.37,Dr_Victoria
+Daniel Niyonzima,7,July,Artemether_Lumefantrine,102,4680,1.27,24,195,0.053,19890,5.41,Dr_Victoria
+Deo Sempijja,7,July,Artemether_Lumefantrine,54,4680,1.27,24,195,0.053,10530,2.86,Sarah
+Edrine Mugerwa,7,July,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Nakabugo
+Edward Kalyango,7,July,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Sarah
+Edward Sekubunga,7,July,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Esther Adikini,7,July,Artemether_Lumefantrine,20,4680,1.27,24,195,0.053,3900,1.06,Dr_Victoria
+Evelyne Nabuyondo,7,July,Artemether_Lumefantrine,55,4680,1.27,24,195,0.053,10725,2.92,Dr_Victoria
+Florence Nakyanzi,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Frank Ssewakiryanga,7,July,Artemether_Lumefantrine,38,4680,1.27,24,195,0.053,7410,2.01,Sarah
+Frunk Sengendo,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Dr_Victoria
+Godfrey Serunjaba,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Grace Nanjego,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Hasifah Nakato,7,July,Artemether_Lumefantrine,244,4680,1.27,24,195,0.053,47580,12.93,Dr_Victoria
+Ibrah Muwanguzi,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Ibrah Ssozi,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Isaac Sekasi,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Joanne
+Janat Nalwoga,7,July,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Dr_Victoria
+John Otushabire,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Dr_Victoria
+Jonah Ssebagala,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Nakabugo
+Jonathan Jagwe,7,July,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Joseph Onyango,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Josephine Nakalyango,7,July,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Dr_Victoria
+Josephine Naluwaga,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Josua Odoi,7,July,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Julius Byakatonda,7,July,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Dr_Victoria
+Lamech Tebusweke,7,July,Artemether_Lumefantrine,31,4680,1.27,24,195,0.053,6045,1.64,Nakabugo
+Loy Babirye,7,July,Artemether_Lumefantrine,166,4680,1.27,24,195,0.053,32370,8.8,Dr_Victoria
+Lucky Rose Nangendo,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Madallene Najjuma,7,July,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Madinah Nakalyango,7,July,Artemether_Lumefantrine,56,4680,1.27,24,195,0.053,10920,2.97,Dr_Victoria
+Malusi Namawejje Babirye,7,July,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Mariam Tendo,7,July,Artemether_Lumefantrine,39,4680,1.27,24,195,0.053,7605,2.07,Dr_Victoria
+Mark Kalulu,7,July,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Dr_Victoria
+Mesearch Tyaaba,7,July,Artemether_Lumefantrine,10,4680,1.27,24,195,0.053,1950,0.53,Dr_Victoria
+Michael Kirisa,7,July,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Moses Luwemba,7,July,Artemether_Lumefantrine,20,4680,1.27,24,195,0.053,3900,1.06,Dr_Victoria
+Nabillah Nakitto,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Nahia Namatovu,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Nazifah Haura Viko,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Norine Nantongo,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Nyasio Ssebyala,7,July,Artemether_Lumefantrine,40,4680,1.27,24,195,0.053,7800,2.12,Sarah
+Olivia Namusisi,7,July,Artemether_Lumefantrine,62,4680,1.27,24,195,0.053,12090,3.29,Dr_Victoria
+Patrick Kavuma,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Prossy Nabasumba,7,July,Artemether_Lumefantrine,78,4680,1.27,24,195,0.053,15210,4.13,Sarah
+Rachael Nalwadda,7,July,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Rachael Namutebi,7,July,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Resty Nakamya,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Ronald Nkizimana,7,July,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Dr_Victoria
+Sarah Nakku,7,July,Artemether_Lumefantrine,57,4680,1.27,24,195,0.053,11115,3.02,Dr_Victoria
+Sarah Nalule,7,July,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Sheebah Namugga,7,July,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Shubaika Sabiiti,7,July,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Dr_Victoria
+Shukrat Nakacwa,7,July,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Simon Ssesanga,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Solomon Mukisa,7,July,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Dr_Victoria
+Sophia Nakawesa,7,July,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Sowedi Mutale,7,July,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Steven Ssetimba,7,July,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Sylvia Babirye Nangendo,7,July,Artemether_Lumefantrine,9,4680,1.27,24,195,0.053,1755,0.48,Dr_Victoria
+Sylvia Nabaseeruka,7,July,Artemether_Lumefantrine,75,4680,1.27,24,195,0.053,14625,3.98,Nakabugo
+Sylvia Nakamwa,7,July,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Joanne
+Trevor Wamala,7,July,Artemether_Lumefantrine,35,4680,1.27,24,195,0.053,6825,1.86,Joanne
+Vicent Sempa,7,July,Artemether_Lumefantrine,179,4680,1.27,24,195,0.053,34905,9.49,Dr_Victoria
+Wasswa  Ssekandi,7,July,Artemether_Lumefantrine,58,4680,1.27,24,195,0.053,11310,3.07,Nakabugo
+Aksam Kiyingi,8,August,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Joanne
+Amosi Luyombya,8,August,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Nakabugo
+Andrianah Nakazzi,8,August,Artemether_Lumefantrine,62,4680,1.27,24,195,0.053,12090,3.29,Joanne
+Annabel Nakato,8,August,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Claire
+Apollo Kasirivu,8,August,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Dr_Victoria
+Arnold Luminsa,8,August,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Ashraf Kalyesubula,8,August,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Baker Kasozi,8,August,Artemether_Lumefantrine,33,4680,1.27,24,195,0.053,6435,1.75,Joanne
+Bashirah Nakku,8,August,Artemether_Lumefantrine,62,4680,1.27,24,195,0.053,12090,3.29,Joanne
+Beatrice Nakayiza,8,August,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Dr_Victoria
+Blessing Mary,8,August,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Dr_Victoria
+Chloe Nakiwala,8,August,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Edward Katumba,8,August,Artemether_Lumefantrine,8,4680,1.27,24,195,0.053,1560,0.42,Claire
+Elias Kawesa,8,August,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Elijah Emmanuel Ssebandeke,8,August,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Dr_Victoria
+Esther Nanfuka,8,August,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Claire
+Ethan Aturinda,8,August,Artemether_Lumefantrine,35,4680,1.27,24,195,0.053,6825,1.86,Dr_Victoria
+Favour Mariana Murungi,8,August,Artemether_Lumefantrine,16,4680,1.27,24,195,0.053,3120,0.85,Dr_Victoria
+Grace Kentebe,8,August,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Hawa Nansubuga,8,August,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Dr_Victoria
+Ibrahim Ssendawula,8,August,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Dr_Victoria
+Jesh Kayemba,8,August,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Joanne
+Joan Najjuma,8,August,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Dr_Victoria
+John Ssegirinya,8,August,Artemether_Lumefantrine,47,4680,1.27,24,195,0.053,9165,2.49,Dr_Victoria
+Jonathan Serwada,8,August,Artemether_Lumefantrine,19,4680,1.27,24,195,0.053,3705,1.01,Sarah
+Joseph Lumu,8,August,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Dr_Victoria
+Joshua Lugenda,8,August,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Joanne
+Josyline Najjemba,8,August,Artemether_Lumefantrine,25,4680,1.27,24,195,0.053,4875,1.33,Dr_Victoria
+Joyice  Kyakuwa,8,August,Artemether_Lumefantrine,24,4680,1.27,24,195,0.053,4680,1.27,Dr_Victoria
+Juliet Nabaggala,8,August,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Justine Birungi,8,August,Artemether_Lumefantrine,22,4680,1.27,24,195,0.053,4290,1.17,Dr_Victoria
+Keylah Kabali,8,August,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Kisakye Namuyiga,8,August,Artemether_Lumefantrine,13,4680,1.27,24,195,0.053,2535,0.69,Nakabugo
+Leticia Nabatanzi,8,August,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Nakabugo
+Lydia Nagujja,8,August,Artemether_Lumefantrine,72,4680,1.27,24,195,0.053,14040,3.82,Claire
+Margret Nantale,8,August,Artemether_Lumefantrine,27,4680,1.27,24,195,0.053,5265,1.43,Dr_Victoria
+Mariam Nanfuka,8,August,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Miracle Nakintu,8,August,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Dr_Victoria
+Nulu Namatovu,8,August,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Sarah
+Pamela Ainembabazi,8,August,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Rawuf Senfuka,8,August,Artemether_Lumefantrine,17,4680,1.27,24,195,0.053,3315,0.9,Dr_Victoria
+Salifu Magoba,8,August,Artemether_Lumefantrine,44,4680,1.27,24,195,0.053,8580,2.33,Sarah
+Samuel Waswa,8,August,Artemether_Lumefantrine,43,4680,1.27,24,195,0.053,8385,2.28,Sarah
+Sandrah Nakigudde,8,August,Artemether_Lumefantrine,34,4680,1.27,24,195,0.053,6630,1.8,Dr_Victoria
+Saulo Sembatya,8,August,Artemether_Lumefantrine,66,4680,1.27,24,195,0.053,12870,3.5,Dr_Victoria
+Scovia Nantale,8,August,Artemether_Lumefantrine,51,4680,1.27,24,195,0.053,9945,2.7,Sarah
+Shafic Kyalyango,8,August,Artemether_Lumefantrine,18,4680,1.27,24,195,0.053,3510,0.95,Dr_Victoria
+Shamilah Nabaggala,8,August,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Joanne
+Shanifah Najjemba,8,August,Artemether_Lumefantrine,36,4680,1.27,24,195,0.053,7020,1.91,Dr_Victoria
+Stella Nagayi,8,August,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Dr_Victoria
+Steven Sekitto,8,August,Artemether_Lumefantrine,12,4680,1.27,24,195,0.053,2340,0.64,Dr_Victoria
+Sylvia Amaali,8,August,Artemether_Lumefantrine,11,4680,1.27,24,195,0.053,2145,0.58,Dr_Victoria
+Viola Nakitende,8,August,Artemether_Lumefantrine,42,4680,1.27,24,195,0.053,8190,2.23,Dr_Victoria
+Yasin Malegeya,8,August,Artemether_Lumefantrine,28,4680,1.27,24,195,0.053,5460,1.48,Dr_Victoria
+Zikula Nakakande,8,August,Artemether_Lumefantrine,190,4680,1.27,24,195,0.053,37050,10.07,Dr_Victoria
+Bena Nabanjala ,2,February,Artesunat Injection,18,34560,9.34,5,6912,1.87,124416,33.66,Sarah
+Specioza Nanyunja,6,June,Artesunat Injection,9,34560,9.34,5,6912,1.87,62208,16.83,Claire
+Winnie Nakagiri,7,July,Artesunat Injection,45,34560,9.34,5,6912,1.87,311040,84.15,Dr_Victoria
+Florence Namigadde,8,August,Artesunat Injection,39,34560,9.34,5,6912,1.87,269568,72.93,Claire
+Edith Nalukenge,2,February,Aspirin,16,3240,0.88,100,32.4,0.009,518.4,0.14,Jimmy
+Christine Nalubugga,3,March,Aspirin,89,3240,0.88,100,32.4,0.009,2883.6,0.8,Jimmy
+Rebecca Nabatanzi,6,June,Aspirin,27,3240,0.88,100,32.4,0.009,874.8,0.24,Jimmy
+Henry Kalule,7,July,Azithromycin,11,15600,4.22,3,5200,1.407,57200,15.48,Dr_Victoria
+John Kasolo,1,January,Bendroflumethiazide,520,7000,1.89,28,250,0.068,130000,35.36,Nakabugo
+Safinah Namulondo,1,January,Bendroflumethiazide,162,7000,1.89,28,250,0.068,40500,11.02,Nakabugo
+Martha Awori,2,February,Bendroflumethiazide,359,7000,1.89,28,250,0.068,89750,24.41,Jimmy
+Livingstone Batte,6,June,Bendroflumethiazide,49,7000,1.89,28,250,0.068,12250,3.33,Sarah
+Maria Nalwasa,6,June,Bendroflumethiazide,280,7000,1.89,28,250,0.068,70000,19.04,Nakabugo
+Rachael Nakabugo,8,August,Bendroflumethiazide,140,7000,1.89,28,250,0.068,35000,9.52,Joanne
+Edward Sosolyo,2,February,Bisacodyl,2,3952.86,1.07,100,39.53,0.011,79.06,0.02,Jimmy
+Micheal Ngungulu,2,February,Bisacodyl,114,3952.86,1.07,100,39.53,0.011,4506.42,1.25,Joanne
+Milly Nalweyiso,7,July,Bisacodyl,43,3952.86,1.07,100,39.53,0.011,1699.79,0.47,Dr_Victoria
+Birungi Nabawanda,7,July,Carbamezapine,256,6539.75,1.77,100,65.4,0.018,16742.4,4.61,Sarah
+Shafik Ocholo,7,July,Carbamezapine,70,6539.75,1.77,100,65.4,0.018,4578,1.26,Dr_Victoria
+Justine Nakate,1,January,Cefixime,72,36896.82,9.98,20,1844.84,0.499,132828.48,35.93,Claire
+Aminah Namitala,2,February,Cefixime,16,36896.82,9.98,20,1844.84,0.499,29517.44,7.98,Sarah
+Muhamaad Lubega,2,February,Cefixime,22,36896.82,9.98,20,1844.84,0.499,40586.48,10.98,Sarah
+Sarah Namuddu,2,February,Cefixime,21,36896.82,9.98,20,1844.84,0.499,38741.64,10.48,Jimmy
+Scovia Ntakirundimaana,2,February,Cefixime,29,36896.82,9.98,20,1844.84,0.499,53500.36,14.47,Jimmy
+ Rebecca Nakajja,3,March,Cefixime,52,36896.82,9.98,20,1844.84,0.499,95931.68,25.95,Jimmy
+Catherine Namala,3,March,Cefixime,53,36896.82,9.98,20,1844.84,0.499,97776.52,26.45,Joanne
+Paul Nantalaga,3,March,Cefixime,17,36896.82,9.98,20,1844.84,0.499,31362.28,8.48,Jimmy
+Rehemah Nalubowa,3,March,Cefixime,60,36896.82,9.98,20,1844.84,0.499,110690.4,29.94,Jimmy
+Justine Nakasango,4,April,Cefixime,36,36896.82,9.98,20,1844.84,0.499,66414.24,17.96,Claire
+Nuuru Namugwanya,4,April,Cefixime,20,36896.82,9.98,20,1844.84,0.499,36896.8,9.98,Jimmy
+Sulaina Nayiga,4,April,Cefixime,24,36896.82,9.98,20,1844.84,0.499,44276.16,11.98,Claire
+Kuraish Kisawuzi,6,June,Cefixime,50,36896.82,9.98,20,1844.84,0.499,92242,24.95,Sarah
+Specioza Nakibule,6,June,Cefixime,10,36896.82,9.98,20,1844.84,0.499,18448.4,4.99,Sarah
+Sheirah Nakiranda,7,July,Cefixime,60,36896.82,9.98,20,1844.84,0.499,110690.4,29.94,Dr_Victoria
+Vincent Nsubuga,7,July,Cefixime,28,36896.82,9.98,20,1844.84,0.499,51655.52,13.97,Dr_Victoria
+Justine Nalukwago,8,August,Cefixime,27,36896.82,9.98,20,1844.84,0.499,49810.68,13.47,Nakabugo
+Sefoloza Namatovu,8,August,Cefixime,43,36896.82,9.98,20,1844.84,0.499,79328.12,21.46,Sarah
+Akamadah Ntume,8,August,Ceftriaxone,150,995.9,0.27,1,995.9,0.27,149385,40.5,Dr_Victoria
+Oliva Nabakyibi,8,August,Ceftriaxone,10,995.9,0.27,1,995.9,0.27,9959,2.7,Claire
+Caro Nabukera,5,May,Cefuroxime,9,9420,2.55,1,9420,2.55,84780,22.95,Jimmy
+Keneth Byaruhanga,5,May,Cefuroxime,2,9420,2.55,1,9420,2.55,18840,5.1,Jimmy
+Jovan Bukenya,7,July,Cefuroxime,2,9420,2.55,1,9420,2.55,18840,5.1,Sarah
+Moreen Nakasi,3,March,Cetrizine,2,7200,1.95,100,72,0.02,144,0.04,Jimmy
+Jamilah Nabulime,6,June,Cetrizine,54,7200,1.95,100,72,0.02,3888,1.08,Sarah
+Edward Kiwanuka,7,July,Cetrizine,33,7200,1.95,100,72,0.02,2376,0.66,Dr_Victoria
+Shirat Namaganda,7,July,Cetrizine,52,7200,1.95,100,72,0.02,3744,1.04,Dr_Victoria
+Hadijah Nalubega,1,January,Chlorphenamine,33,1050.04,0.28,100,10.5,0.003,346.5,0.1,Claire
+John Ssenkula,1,January,Chlorphenamine,158,1050.04,0.28,100,10.5,0.003,1659,0.47,Sarah
+Kulusum Nalunkuma,1,January,Chlorphenamine,16,1050.04,0.28,100,10.5,0.003,168,0.05,Sarah
+Lilian Naketi,1,January,Chlorphenamine,40,1050.04,0.28,100,10.5,0.003,420,0.12,Claire
+Shamula  Nakiwala,1,January,Chlorphenamine,46,1050.04,0.28,100,10.5,0.003,483,0.14,Claire
+Alex Lukyamuzi,2,February,Chlorphenamine,6,1050.04,0.28,100,10.5,0.003,63,0.02,Sarah
+Jeremiah Lubega,2,February,Chlorphenamine,68,1050.04,0.28,100,10.5,0.003,714,0.2,Nakabugo
+Rosemary Kutesa,2,February,Chlorphenamine,5,1050.04,0.28,100,10.5,0.003,52.5,0.02,Jimmy
+Norah Kirabo,5,May,Chlorphenamine,65,1050.04,0.28,100,10.5,0.003,682.5,0.2,Claire
+Elivania Nakiranda,7,July,Chlorphenamine,61,1050.04,0.28,100,10.5,0.003,640.5,0.18,Dr_Victoria
+Scovia Nansasi,7,July,Chlorphenamine,18,1050.04,0.28,100,10.5,0.003,189,0.05,Dr_Victoria
+Wilberforce Peter,7,July,Chlorphenamine,6,1050.04,0.28,100,10.5,0.003,63,0.02,Dr_Victoria
+Joakim  Mugabbi Otebba,8,August,Chlorphenamine,20,1050.04,0.28,100,10.5,0.003,210,0.06,Dr_Victoria
+Benitah Nakintu,1,January,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Nakabugo
+Charles Magezi,1,January,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Jimmy
+Emmanuel Lubwama,1,January,Ciprofloxacin,26,11760,3.18,100,117.6,0.032,3057.6,0.83,Sarah
+Mariam Namuleme,1,January,Ciprofloxacin,22,11760,3.18,100,117.6,0.032,2587.2,0.7,Sarah
+Samuel Galiwango,2,February,Ciprofloxacin,70,11760,3.18,100,117.6,0.032,8232,2.24,Jimmy
+Aisha Nakiberu,3,March,Ciprofloxacin,33,11760,3.18,100,117.6,0.032,3880.8,1.06,Jimmy
+Resty Nabawesi,3,March,Ciprofloxacin,33,11760,3.18,100,117.6,0.032,3880.8,1.06,Jimmy
+Stella Nabawanda,3,March,Ciprofloxacin,50,11760,3.18,100,117.6,0.032,5880,1.6,Jimmy
+Jane Kabarere,4,April,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Jimmy
+Aisha Nalumu,5,May,Ciprofloxacin,50,11760,3.18,100,117.6,0.032,5880,1.6,Claire
+Josephine Namata,5,May,Ciprofloxacin,11,11760,3.18,100,117.6,0.032,1293.6,0.35,Jimmy
+Peter Izingolera,5,May,Ciprofloxacin,81,11760,3.18,100,117.6,0.032,9525.6,2.59,Jimmy
+Sammy Lubwama,5,May,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Jimmy
+Florence Nanono,6,June,Ciprofloxacin,30,11760,3.18,100,117.6,0.032,3528,0.96,Nakabugo
+Rebecca Nantege,6,June,Ciprofloxacin,30,11760,3.18,100,117.6,0.032,3528,0.96,Dr_Victoria
+Mayimuna Namakula,7,July,Ciprofloxacin,10,11760,3.18,100,117.6,0.032,1176,0.32,Dr_Victoria
+Dorothy Akoth,8,August,Ciprofloxacin,98,11760,3.18,100,117.6,0.032,11524.8,3.14,Dr_Victoria
+Faridah Melisa,8,August,Ciprofloxacin,35,11760,3.18,100,117.6,0.032,4116,1.12,Dr_Victoria
+Mutima Nkambwe,8,August,Ciprofloxacin,17,11760,3.18,100,117.6,0.032,1999.2,0.54,Dr_Victoria
+Sarah Nassaka,8,August,Ciprofloxacin,29,11760,3.18,100,117.6,0.032,3410.4,0.93,Dr_Victoria
+Sharifah Nakibirango,8,August,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Dr_Victoria
+Teddy Nabitalo,8,August,Ciprofloxacin,28,11760,3.18,100,117.6,0.032,3292.8,0.9,Joanne
+Maurine Babirye,2,February,Clotrimaz Pessaries,8,960.02,0.26,6,160,0.043,1280,0.34,Nakabugo
+Nubuwat Sanyu,2,February,Clotrimaz Pessaries,51,960.02,0.26,6,160,0.043,8160,2.19,Claire
+Sarah Nakabiri,2,February,Clotrimaz Pessaries,26,960.02,0.26,6,160,0.043,4160,1.12,Jimmy
+Aminah Nalweyiso,3,March,Clotrimaz Pessaries,24,960.02,0.26,6,160,0.043,3840,1.03,Jimmy
+Joan Nakawesi,3,March,Clotrimaz Pessaries,3,960.02,0.26,6,160,0.043,480,0.13,Jimmy
+Margret Sanyu,3,March,Clotrimaz Pessaries,28,960.02,0.26,6,160,0.043,4480,1.2,Jimmy
+Nantongo Dinah,3,March,Clotrimaz Pessaries,26,960.02,0.26,6,160,0.043,4160,1.12,Jimmy
+Annet Mburiro,4,April,Clotrimaz Pessaries,4,960.02,0.26,6,160,0.043,640,0.17,Claire
+Annet Namulondo,4,April,Clotrimaz Pessaries,46,960.02,0.26,6,160,0.043,7360,1.98,Jimmy
+Jalia Nakawesa,4,April,Clotrimaz Pessaries,14,960.02,0.26,6,160,0.043,2240,0.6,Jimmy
+Namusobya Ruth,4,April,Clotrimaz Pessaries,22,960.02,0.26,6,160,0.043,3520,0.95,Jimmy
+Christine Nalukenge,5,May,Clotrimaz Pessaries,33,960.02,0.26,6,160,0.043,5280,1.42,Jimmy
+Jemimah Nabbale,5,May,Clotrimaz Pessaries,22,960.02,0.26,6,160,0.043,3520,0.95,Jimmy
+Doreen Nalwoga,6,June,Clotrimaz Pessaries,43,960.02,0.26,6,160,0.043,6880,1.85,Claire
+Lukia Nabayego,6,June,Clotrimaz Pessaries,11,960.02,0.26,6,160,0.043,1760,0.47,Dr_Victoria
+Jesca Namyalo,8,August,Clotrimaz Pessaries,38,960.02,0.26,6,160,0.043,6080,1.63,Dr_Victoria
+Lydia Najjemba,8,August,Clotrimaz Pessaries,39,960.02,0.26,6,160,0.043,6240,1.68,Dr_Victoria
+Aisha Nabukenya,1,January,Clotrimazole Cream,12,1185.68,0.32,1,1185.68,0.32,14228.16,3.84,Sarah
+Frank Kizito,4,April,Clotrimazole Cream,8,1185.68,0.32,1,1185.68,0.32,9485.44,2.56,Jimmy
+Sophia Nakayemba,5,May,Clotrimazole Cream,17,1185.68,0.32,1,1185.68,0.32,20156.56,5.44,Jimmy
+Tom Sembatya,5,May,Clotrimazole Cream,33,1185.68,0.32,1,1185.68,0.32,39127.44,10.56,Jimmy
+Samuel Nsubuga,6,June,Clotrimazole Cream,2,1185.68,0.32,1,1185.68,0.32,2371.36,0.64,Dr_Victoria
+Ezabellah Nakiraga,7,July,Clotrimazole Cream,8,1185.68,0.32,1,1185.68,0.32,9485.44,2.56,Sarah
+Stefania Nantume,7,July,Clotrimazole Cream,35,1185.68,0.32,1,1185.68,0.32,41498.8,11.2,Dr_Victoria
+Faith Kisakye,8,August,Clotrimazole Cream,1,1185.68,0.32,1,1185.68,0.32,1185.68,0.32,Nakabugo
+Shadia Nakabonge,8,August,Clotrimazole Cream,1,1185.68,0.32,1,1185.68,0.32,1185.68,0.32,Dr_Victoria
+Justine Namatovu,1,January,Cotrimoxazol,14,15600,4.22,10,1560,0.422,21840,5.91,Sarah
+Prossy Nabukera,1,January,Cotrimoxazol,5,15600,4.22,10,1560,0.422,7800,2.11,Sarah
+Ritah Nalubega,1,January,Cotrimoxazol,20,15600,4.22,10,1560,0.422,31200,8.44,Sarah
+Sam Bukenya,1,January,Cotrimoxazol,14,15600,4.22,10,1560,0.422,21840,5.91,Sarah
+Alexandria Nalwoga,8,August,Cotrimoxazol,26,15600,4.22,10,1560,0.422,40560,10.97,Joanne
+Hawa Nakirija,2,February,Dexamethasone,51,1200,0.32,1,1200,0.32,61200,16.32,Jimmy
+Rashid Kimbowa,2,February,Dexamethasone,12,1200,0.32,1,1200,0.32,14400,3.84,Jimmy
+Richard Sebisubi,2,February,Diclofenac,11,1305,0.35,100,13.05,0.004,143.55,0.04,Jimmy
+Abdul Mbooge,3,March,Diclofenac,1,1305,0.35,100,13.05,0.004,13.05,0,Jimmy
+Deborah Nalumu,3,March,Diclofenac,15,1305,0.35,100,13.05,0.004,195.75,0.06,Jimmy
+Sulaiman Serusa,3,March,Diclofenac,1,1305,0.35,100,13.05,0.004,13.05,0,Jimmy
+Immaculate Nassaka,5,May,Diclofenac,13,1305,0.35,100,13.05,0.004,169.65,0.05,Jimmy
+Christine Nalule,8,August,Diclofenac,20,1305,0.35,100,13.05,0.004,261,0.08,Dr_Victoria
+Harriet Nakirya,8,August,Diclofenac,20,1305,0.35,100,13.05,0.004,261,0.08,Dr_Victoria
+Jane Nagawa,8,August,Diclofenac,38,1305,0.35,100,13.05,0.004,495.9,0.15,Dr_Victoria
+Kareem Kimera,8,August,Diclofenac,20,1305,0.35,100,13.05,0.004,261,0.08,Dr_Victoria
+Nvuyekule Benado,8,August,Diclofenac,20,1305,0.35,100,13.05,0.004,261,0.08,Dr_Victoria
+Olivia Nalugo,8,August,Diclofenac,60,1305,0.35,100,13.05,0.004,783,0.24,Dr_Victoria
+Reuben Lumu,8,August,Diclofenac,10,1305,0.35,100,13.05,0.004,130.5,0.04,Dr_Victoria
+Rhoda Namutebi,8,August,Diclofenac,21,1305,0.35,100,13.05,0.004,274.05,0.08,Dr_Victoria
+Grace Namatovu,1,January,Doxycycline,90,6661,1.8,100,66.61,0.018,5994.9,1.62,Jimmy
+Hanifah Nalwanga,1,January,Doxycycline,52,6661,1.8,100,66.61,0.018,3463.72,0.94,Claire
+Betty Namatovu,2,February,Doxycycline,16,6661,1.8,100,66.61,0.018,1065.76,0.29,Jimmy
+Hadijah Nabayiga,2,February,Doxycycline,89,6661,1.8,100,66.61,0.018,5928.29,1.6,Nakabugo
+Sarah Nalunga,2,February,Doxycycline,20,6661,1.8,100,66.61,0.018,1332.2,0.36,Jimmy
+Sylivia Kafuko,6,June,Doxycycline,69,6661,1.8,100,66.61,0.018,4596.09,1.24,Dr_Victoria
+Getu Namatovu,3,March,Enalapril,543,19800,5.35,100,198,0.054,107514,29.32,Jimmy
+Fred Malumba,4,April,Enalapril,90,19800,5.35,100,198,0.054,17820,4.86,Jimmy
+Esther Natasha,1,January,Erythromycin,46,10847.86,2.93,100,108.48,0.029,4990.08,1.33,Sarah
+Jannifer  Nabajja,1,January,Erythromycin,42,10847.86,2.93,100,108.48,0.029,4556.16,1.22,Sarah
+Justine Ngonzebwe,1,January,Erythromycin,54,10847.86,2.93,100,108.48,0.029,5857.92,1.57,Claire
+Ronald  Mutebi,1,January,Erythromycin,12,10847.86,2.93,100,108.48,0.029,1301.76,0.35,Sarah
+Ruth Kwagala,1,January,Erythromycin,104,10847.86,2.93,100,108.48,0.029,11281.92,3.02,Claire
+Jalia Nakyeyune,2,February,Erythromycin,30,10847.86,2.93,100,108.48,0.029,3254.4,0.87,Sarah
+Shanitah Nangendo,5,May,Erythromycin,58,10847.86,2.93,100,108.48,0.029,6291.84,1.68,Claire
+Fatuma Namale,6,June,Erythromycin,94,10847.86,2.93,100,108.48,0.029,10197.12,2.73,Nakabugo
+Florence Namirimu,6,June,Erythromycin,32,10847.86,2.93,100,108.48,0.029,3471.36,0.93,Claire
+Jimmy Ziwa,6,June,Erythromycin,43,10847.86,2.93,100,108.48,0.029,4664.64,1.25,Joanne
+Mercy Nanyonga,6,June,Erythromycin,53,10847.86,2.93,100,108.48,0.029,5749.44,1.54,Nakabugo
+Edith Nabasirye,7,July,Erythromycin,32,10847.86,2.93,100,108.48,0.029,3471.36,0.93,Claire
+Catherine Namulindwa,8,August,Erythromycin,100,10847.86,2.93,100,108.48,0.029,10848,2.9,Dr_Victoria
+Matina Adeti,8,August,Erythromycin,27,10847.86,2.93,100,108.48,0.029,2928.96,0.78,Joanne
+Severino Nyabenda,8,August,Erythromycin,42,10847.86,2.93,100,108.48,0.029,4556.16,1.22,Joanne
+FLORENCE NAKATE,2,February,Fansidar,33,38093.17,10.30001224,150,253.95,0.07,8380.35,2.31,Claire
+JUSTINE PADETE,2,February,Fansidar,3,38094.17,10.3,150,253.95,0.07,761.85,0.21,Claire
+Caroline Nawangi,1,January,Fefo,63,4560,1.23,100,45.6,0.012,2872.8,0.76,Claire
+Jane Nabagara,2,February,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Mariam Nabuuma,2,February,Fefo,63,4560,1.23,100,45.6,0.012,2872.8,0.76,Claire
+Sarah Mukisa,2,February,Fefo,66,4560,1.23,100,45.6,0.012,3009.6,0.79,Claire
+Sarah Nabukera,2,February,Fefo,14,4560,1.23,100,45.6,0.012,638.4,0.17,Jimmy
+Shanifa Namatovu,2,February,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Sherinah Kisakye,2,February,Fefo,63,4560,1.23,100,45.6,0.012,2872.8,0.76,Claire
+Eva Byakatonda,3,March,Fefo,59,4560,1.23,100,45.6,0.012,2690.4,0.71,Claire
+Kiwanda Andrew,3,March,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Jimmy
+Moeline Nampiija,3,March,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Ruth Nantege,3,March,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Joanne
+Specioza Namatovu,3,March,Fefo,37,4560,1.23,100,45.6,0.012,1687.2,0.44,Jimmy
+Mariam Nalubega,5,May,Fefo,15,4560,1.23,100,45.6,0.012,684,0.18,Jimmy
+Babirye  Agnes,6,June,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Prossie Nansamba,6,June,Fefo,88,4560,1.23,100,45.6,0.012,4012.8,1.06,Nakabugo
+Ziraika Naguka,6,June,Fefo,98,4560,1.23,100,45.6,0.012,4468.8,1.18,Claire
+Allen Namuga,7,July,Fefo,123,4560,1.23,100,45.6,0.012,5608.8,1.48,Claire
+Angella Nasande,7,July,Fefo,74,4560,1.23,100,45.6,0.012,3374.4,0.89,Claire
+Elizabeth Namugerwa,7,July,Fefo,66,4560,1.23,100,45.6,0.012,3009.6,0.79,Claire
+Florence Nambalirwa,7,July,Fefo,70,4560,1.23,100,45.6,0.012,3192,0.84,Claire
+Harriet Namaganda,7,July,Fefo,93,4560,1.23,100,45.6,0.012,4240.8,1.12,Claire
+Hasifah Naluyange,7,July,Fefo,38,4560,1.23,100,45.6,0.012,1732.8,0.46,Claire
+Nshekanabo Catherine,7,July,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Recheal Nakazibwe,7,July,Fefo,31,4560,1.23,100,45.6,0.012,1413.6,0.37,Claire
+Ritah Nabakooza,7,July,Fefo,38,4560,1.23,100,45.6,0.012,1732.8,0.46,Claire
+Zauma Nanteza,7,July,Fefo,72,4560,1.23,100,45.6,0.012,3283.2,0.86,Claire
+Barbrah Nakanwagi,8,August,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Dorah Nakandi,8,August,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Kyesange Annet,8,August,Fefo,69,4560,1.23,100,45.6,0.012,3146.4,0.83,Claire
+Mariam Namande,8,August,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Nalubwama Ritah,8,August,Fefo,114,4560,1.23,100,45.6,0.012,5198.4,1.37,Claire
+Scovia Nabukeera,8,August,Fefo,65,4560,1.23,100,45.6,0.012,2964,0.78,Claire
+Speechioza Nanyonjo,8,August,Fefo,33,4560,1.23,100,45.6,0.012,1504.8,0.4,Claire
+Tinah Nabawesi,8,August,Fefo,66,4560,1.23,100,45.6,0.012,3009.6,0.79,Dr_Victoria
+Adiya Magretti,1,January,Ferrous Sulfate,117,2494,0.67,100,24.94,0.007,2917.98,0.82,Claire
+Annet Nakangu,1,January,Ferrous Sulfate,73,2494,0.67,100,24.94,0.007,1820.62,0.51,Claire
+Annet Nakimule,1,January,Ferrous Sulfate,71,2494,0.67,100,24.94,0.007,1770.74,0.5,Claire
+Jackline Kansiime,1,January,Ferrous Sulfate,36,2494,0.67,100,24.94,0.007,897.84,0.25,Claire
+Katy Nayiga,1,January,Ferrous Sulfate,33,2494,0.67,100,24.94,0.007,823.02,0.23,Claire
+Kuluthum Nalutaaya,1,January,Ferrous Sulfate,111,2494,0.67,100,24.94,0.007,2768.34,0.78,Claire
+Magreti Nabukera,1,January,Ferrous Sulfate,91,2494,0.67,100,24.94,0.007,2269.54,0.64,Claire
+Rema Nabukera,1,January,Ferrous Sulfate,69,2494,0.67,100,24.94,0.007,1720.86,0.48,Claire
+Resty Nakimbugwe,1,January,Ferrous Sulfate,111,2494,0.67,100,24.94,0.007,2768.34,0.78,Claire
+Sarah Nakiyingi,1,January,Ferrous Sulfate,170,2494,0.67,100,24.94,0.007,4239.8,1.19,Claire
+Speechioza Nampija,1,January,Ferrous Sulfate,99,2494,0.67,100,24.94,0.007,2469.06,0.69,Claire
+Robert Jakisa,1,January,Fluconazole,12,8760,2.37,20,438,0.119,5256,1.43,Nakabugo
+Robinah Nakityo,1,January,Fluconazole,24,8760,2.37,20,438,0.119,10512,2.86,Nakabugo
+Bawera Harriet,4,April,Fluconazole,20,8760,2.37,20,438,0.119,8760,2.38,Claire
+Justine Nakijoba,4,April,Fluconazole,8,8760,2.37,20,438,0.119,3504,0.95,Jimmy
+Faith Nakimbugwe,6,June,Fluconazole,7,8760,2.37,20,438,0.119,3066,0.83,Sarah
+Faith Namutebi,7,July,Fluconazole,38,8760,2.37,20,438,0.119,16644,4.52,Dr_Victoria
+Juliet Nalubwama,7,July,Fluconazole,25,8760,2.37,20,438,0.119,10950,2.98,Dr_Victoria
+Mariam Namwanje,1,January,Folic Acid,47,1860,0.5,100,18.6,0.005,874.2,0.24,Claire
+Charles Lubega,1,January,Furosemide,47,14802.5,4,100,148.03,0.04,6957.41,1.88,Claire
+Falasico Lule,8,August,Furosemide,78,14802.5,4,100,148.03,0.04,11546.34,3.12,Dr_Victoria
+Hamidah Nakitto,1,January,Griseofulvin,30,23024,6.23,100,230.24,0.062,6907.2,1.86,Nakabugo
+Juliet Nalwanga,1,January,Griseofulvin,29,23024,6.23,100,230.24,0.062,6676.96,1.8,Sarah
+Ruth Nabawesi,1,January,Griseofulvin,31,23024,6.23,100,230.24,0.062,7137.44,1.92,Nakabugo
+Salma  Namugera,1,January,Griseofulvin,32,23024,6.23,100,230.24,0.062,7367.68,1.98,Jimmy
+Abdul Ssebagala,2,February,Griseofulvin,59,23024,6.23,100,230.24,0.062,13584.16,3.66,Joanne
+Joel Mugwanya,2,February,Griseofulvin,42,23024,6.23,100,230.24,0.062,9670.08,2.6,Sarah
+Justine Nayomba,2,February,Griseofulvin,37,23024,6.23,100,230.24,0.062,8518.88,2.29,Sarah
+Fridah Nashashana,3,March,Griseofulvin,16,23024,6.23,100,230.24,0.062,3683.84,0.99,Nakabugo
+Caleb Kisaakye Wagama,4,April,Griseofulvin,31,23024,6.23,100,230.24,0.062,7137.44,1.92,Claire
+Mirembe Raihan,4,April,Griseofulvin,21,23024,6.23,100,230.24,0.062,4835.04,1.3,Jimmy
+Muhammed Semwogerere,5,May,Griseofulvin,31,23024,6.23,100,230.24,0.062,7137.44,1.92,Joanne
+Annet Onen,6,June,Griseofulvin,86,23024,6.23,100,230.24,0.062,19800.64,5.33,Sarah
+Sandrah Nyabonyo,6,June,Griseofulvin,60,23024,6.23,100,230.24,0.062,13814.4,3.72,Joanne
+Sarah Nakabugo,6,June,Griseofulvin,25,23024,6.23,100,230.24,0.062,5756,1.55,Jimmy
+Ssekajja Jamad,6,June,Griseofulvin,59,23024,6.23,100,230.24,0.062,13584.16,3.66,Nakabugo
+Mariam Kisakye,7,July,Griseofulvin,60,23024,6.23,100,230.24,0.062,13814.4,3.72,Dr_Victoria
+Specioza Nankya,7,July,Griseofulvin,80,23024,6.23,100,230.24,0.062,18419.2,4.96,Nakabugo
+Asuman Mwira,3,March,Hydrocotisone Cream,2,25184.46,6.81,12,2098.71,0.568,4197.42,1.14,Jimmy
+Fatuma Namutebi,5,May,Hydrocotisone Cream,29,25184.46,6.81,12,2098.71,0.568,60862.59,16.47,Jimmy
+Mayi Nabatanzi,5,May,Hydrocotisone Cream,100,25184.46,6.81,12,2098.71,0.568,209871,56.8,Jimmy
+Asuman Wasswa,6,June,Hydrocotisone Cream,1,25184.46,6.81,12,2098.71,0.568,2098.71,0.57,Claire
+Brenda Namatovu,7,July,Hydrocotisone Cream,107,25184.46,6.81,12,2098.71,0.568,224561.97,60.78,Dr_Victoria
+Ezra Mercy Kimuli,7,July,Hydrocotisone Cream,1,25184.46,6.81,12,2098.71,0.568,2098.71,0.57,Dr_Victoria
+Margret Ntongo,7,July,Hydrocotisone Cream,3,25184.46,6.81,12,2098.71,0.568,6296.13,1.7,Dr_Victoria
+Faith Shalom Musiime,8,August,Hydrocotisone Cream,1,25184.46,6.81,12,2098.71,0.568,2098.71,0.57,Dr_Victoria
+Abasi Kato,1,January,Ibuprofen,97,4163.34,1.13,100,41.63,0.011,4038.11,1.07,Jimmy
+Benon Mugume,1,January,Ibuprofen,12,4163.34,1.13,100,41.63,0.011,499.56,0.13,Sarah
+Isa Sekide,1,January,Ibuprofen,27,4163.34,1.13,100,41.63,0.011,1124.01,0.3,Sarah
+Peace Anyirber,1,January,Ibuprofen,51,4163.34,1.13,100,41.63,0.011,2123.13,0.56,Claire
+Racheal Nakacwa,1,January,Ibuprofen,62,4163.34,1.13,100,41.63,0.011,2581.06,0.68,Nakabugo
+Harriet Nabosa,2,February,Ibuprofen,76,4163.34,1.13,100,41.63,0.011,3163.88,0.84,Jimmy
+Rose Nabukenya,3,March,Ibuprofen,38,4163.34,1.13,100,41.63,0.011,1581.94,0.42,Jimmy
+Catherine Namawuba,4,April,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Claire
+Florence Nakimuli,4,April,Ibuprofen,286,4163.34,1.13,100,41.63,0.011,11906.18,3.15,Jimmy
+Jane Lwanga,4,April,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Jimmy
+JOHN MUTEBI,4,April,Ibuprofen,28,4163.34,1.13,100,41.63,0.011,1165.64,0.31,Jimmy
+Drisa Kasana,5,May,Ibuprofen,34,4163.34,1.13,100,41.63,0.011,1415.42,0.37,Jimmy
+Isaac Sekade,5,May,Ibuprofen,584,4163.34,1.13,100,41.63,0.011,24311.92,6.42,Jimmy
+Jannet Nabatanzi,5,May,Ibuprofen,299,4163.34,1.13,100,41.63,0.011,12447.37,3.29,Jimmy
+Moses Kalyango,6,June,Ibuprofen,28,4163.34,1.13,100,41.63,0.011,1165.64,0.31,Dr_Victoria
+Abdallah Makoona,7,July,Ibuprofen,81,4163.34,1.13,100,41.63,0.011,3372.03,0.89,Dr_Victoria
+Augustine Sembajwe,7,July,Ibuprofen,28,4163.34,1.13,100,41.63,0.011,1165.64,0.31,Nakabugo
+Fabiano Ndururuse,7,July,Ibuprofen,44,4163.34,1.13,100,41.63,0.011,1831.72,0.48,Dr_Victoria
+Julianah Nalumansi,7,July,Ibuprofen,30,4163.34,1.13,100,41.63,0.011,1248.9,0.33,Dr_Victoria
+Moses Ssempa,7,July,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Muhammed Lwetute,7,July,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Noelline Nabitalo,7,July,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Ronald Mutyaba,7,July,Ibuprofen,33,4163.34,1.13,100,41.63,0.011,1373.79,0.36,Dr_Victoria
+Shifah Nakazzi,7,July,Ibuprofen,94,4163.34,1.13,100,41.63,0.011,3913.22,1.03,Dr_Victoria
+Suzan Nakamya,7,July,Ibuprofen,50,4163.34,1.13,100,41.63,0.011,2081.5,0.55,Dr_Victoria
+Mary Nampa,8,August,Ibuprofen,60,4163.34,1.13,100,41.63,0.011,2497.8,0.66,Dr_Victoria
+Michael Timayite,8,August,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Oliva Kyolaba,8,August,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Paul Malumba,8,August,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Rose Nakatudde,8,August,Ibuprofen,40,4163.34,1.13,100,41.63,0.011,1665.2,0.44,Dr_Victoria
+Teopista Naluyo,8,August,Ibuprofen,20,4163.34,1.13,100,41.63,0.011,832.6,0.22,Dr_Victoria
+Abbey Musisi,2,February,Indometacin,15,2951,0.8,100,29.51,0.008,442.65,0.12,Jimmy
+Anna Ndagire,2,February,Indometacin,42,2951,0.8,100,29.51,0.008,1239.42,0.34,Joanne
+Eneriko Bukenya,2,February,Indometacin,148,2951,0.8,100,29.51,0.008,4367.48,1.18,Jimmy
+Maria Gorret Nakibule,2,February,Indometacin,20,2951,0.8,100,29.51,0.008,590.2,0.16,Jimmy
+Dorothy Nalubowa,1,January,Levofloxacin,19,5400,1.46,5,1080,0.292,20520,5.55,Nakabugo
+Francis Kasakya,1,January,Levofloxacin,27,5400,1.46,5,1080,0.292,29160,7.88,Nakabugo
+Hamidah Nakanwagi,1,January,Levofloxacin,29,5400,1.46,5,1080,0.292,31320,8.47,Nakabugo
+Ibrahim Yiiga,1,January,Levofloxacin,15,5400,1.46,5,1080,0.292,16200,4.38,Nakabugo
+Salama Nabagereka,1,January,Levofloxacin,40,5400,1.46,5,1080,0.292,43200,11.68,Jimmy
+Florence Kobusingye,2,February,Levofloxacin,127,5400,1.46,5,1080,0.292,137160,37.08,Sarah
+Margret Namusisi,4,April,Levofloxacin,105,5400,1.46,5,1080,0.292,113400,30.66,Jimmy
+Siriman Mukasa,4,April,Levofloxacin,109,5400,1.46,5,1080,0.292,117720,31.83,Claire
+Betty Nakanjako,8,August,Levofloxacin,41,5400,1.46,5,1080,0.292,44280,11.97,Dr_Victoria
+Christine Nagayi,8,August,Levofloxacin,67,5400,1.46,5,1080,0.292,72360,19.56,Dr_Victoria
+Esther Namarome,8,August,Levofloxacin,17,5400,1.46,5,1080,0.292,18360,4.96,Nakabugo
+Modesta Aluwe,8,August,Levofloxacin,42,5400,1.46,5,1080,0.292,45360,12.26,Dr_Victoria
+Flavia Nanyanzi,1,January,Magnesium Trisilicate,70,1800,0.49,100,18,0.005,1260,0.35,Nakabugo
+Mahamood Ntambi,2,February,Magnesium Trisilicate,1,1800,0.49,100,18,0.005,18,0.01,Jimmy
+Nadiah Kassozi,2,February,Magnesium Trisilicate,7,1800,0.49,100,18,0.005,126,0.04,Sarah
+Jane Namuli,3,March,Magnesium Trisilicate,119,1800,0.49,100,18,0.005,2142,0.6,Nakabugo
+Janat Zansanze,4,April,Magnesium Trisilicate,151,1800,0.49,100,18,0.005,2718,0.76,Jimmy
+Shamimu Shafina,4,April,Magnesium Trisilicate,16,1800,0.49,100,18,0.005,288,0.08,Claire
+Amina Nakobaki,5,May,Magnesium Trisilicate,37,1800,0.49,100,18,0.005,666,0.19,Jimmy
+Sylivia Elumbi,5,May,Magnesium Trisilicate,58,1800,0.49,100,18,0.005,1044,0.29,Claire
+Sauda Naluyange,6,June,Magnesium Trisilicate,53,1800,0.49,100,18,0.005,954,0.27,Nakabugo
+Majorine Kyoraba ,7,July,Magnesium Trisilicate,58,1800,0.49,100,18,0.005,1044,0.29,Sarah
+Teraza Kiyuni,7,July,Magnesium Trisilicate,46,1800,0.49,100,18,0.005,828,0.23,Nakabugo
+Miriam Kevin Namuswe,8,August,Magnesium Trisilicate,25,1800,0.49,100,18,0.005,450,0.13,Dr_Victoria
+Alice Nakibuka,1,January,Metformin,57,3568.28,0.96,100,35.68,0.01,2033.76,0.57,Sarah
+Mayanja Antonio,1,January,Metformin,822,3568.28,0.96,100,35.68,0.01,29328.96,8.22,Jimmy
+Beatrice Kyomuhangi,7,July,Metformin,161,3568.28,0.96,100,35.68,0.01,5744.48,1.61,Nakabugo
+David Nsereko,8,August,Metformin,95,3568.28,0.96,100,35.68,0.01,3389.6,0.95,Dr_Victoria
+Florence Nansikombi,8,August,Metformin,88,3568.28,0.96,100,35.68,0.01,3139.84,0.88,Dr_Victoria
+Paul Kiyingi,8,August,Metformin,174,3568.28,0.96,100,35.68,0.01,6208.32,1.74,Sarah
+Henry Ssekandi,1,January,Metronidazole,54,2936.09,0.79,100,29.36,0.008,1585.44,0.43,Claire
+Margret Nakibuka,1,January,Metronidazole,78,2936.09,0.79,100,29.36,0.008,2290.08,0.62,Sarah
+Phillip Waswa,1,January,Metronidazole,46,2936.09,0.79,100,29.36,0.008,1350.56,0.37,Claire
+Leontina Nakalule,3,March,Metronidazole,20,2936.09,0.79,100,29.36,0.008,587.2,0.16,Jimmy
+Stefano Kasiita,3,March,Metronidazole,362,2936.09,0.79,100,29.36,0.008,10628.32,2.9,Jimmy
+Sylvia Nambooze,3,March,Metronidazole,19,2936.09,0.79,100,29.36,0.008,557.84,0.15,Jimmy
+John Lubega,4,April,Metronidazole,42,2936.09,0.79,100,29.36,0.008,1233.12,0.34,Jimmy
+Kasibante Batisita,4,April,Metronidazole,66,2936.09,0.79,100,29.36,0.008,1937.76,0.53,Jimmy
+Katerega  Sulaiman,4,April,Metronidazole,17,2936.09,0.79,100,29.36,0.008,499.12,0.14,Jimmy
+Erinest Kizza,6,June,Metronidazole,32,2936.09,0.79,100,29.36,0.008,939.52,0.26,Sarah
+Jenipher Iketi,6,June,Metronidazole,25,2936.09,0.79,100,29.36,0.008,734,0.2,Nakabugo
+Joseph Onen,6,June,Metronidazole,76,2936.09,0.79,100,29.36,0.008,2231.36,0.61,Joanne
+Alice Lunkuse,7,July,Metronidazole,127,2936.09,0.79,100,29.36,0.008,3728.72,1.02,Nakabugo
+Ramula Nalugwa,7,July,Metronidazole,110,2936.09,0.79,100,29.36,0.008,3229.6,0.88,Dr_Victoria
+Zedezia Muliika,7,July,Metronidazole,52,2936.09,0.79,100,29.36,0.008,1526.72,0.42,Nakabugo
+Agnes Nakiyemba,8,August,Metronidazole,95,2936.09,0.79,100,29.36,0.008,2789.2,0.76,Dr_Victoria
+JACKLINE ASOBOLA,8,August,Metronidazole,57,2936.09,0.79,100,29.36,0.008,1673.52,0.46,Claire
+Mastula Namukwaya,8,August,Metronidazole,78,2936.09,0.79,100,29.36,0.008,2290.08,0.62,Claire
+Fredric  Njakolere,5,May,Multivitamin,35,2993,0.81,100,29.93,0.008,1047.55,0.28,Jimmy
+Dezilanta Namatovu,8,August,Multivitamin,41,2993,0.81,100,29.93,0.008,1227.13,0.33,Dr_Victoria
+Harriet Namusisi,2,February,Neuroton,15,12000,3.24,20,600,0.162,9000,2.43,Jimmy
+Aisha Nakanwagi,3,March,Neuroton,2,12000,3.24,20,600,0.162,1200,0.32,Jimmy
+Milly Birabwa,3,March,Neuroton,15,12000,3.24,20,600,0.162,9000,2.43,Jimmy
+Diana Katumba,1,January,Nifedipine,90,3479,0.94,100,34.79,0.009,3131.1,0.81,Nakabugo
+George Ssali,1,January,Nifedipine,393,3479,0.94,100,34.79,0.009,13672.47,3.54,Jimmy
+Gorret Twesigye,1,January,Nifedipine,303,3479,0.94,100,34.79,0.009,10541.37,2.73,Jimmy
+Grace Nakigude,1,January,Nifedipine,42,3479,0.94,100,34.79,0.009,1461.18,0.38,Claire
+Harriet Nakatte,1,January,Nifedipine,94,3479,0.94,100,34.79,0.009,3270.26,0.85,Nakabugo
+Jaliat Nakazibwe,1,January,Nifedipine,150,3479,0.94,100,34.79,0.009,5218.5,1.35,Sarah
+Jamada Matovu,1,January,Nifedipine,54,3479,0.94,100,34.79,0.009,1878.66,0.49,Sarah
+John Kabalule,1,January,Nifedipine,666,3479,0.94,100,34.79,0.009,23170.14,5.99,Nakabugo
+Marther Awori,1,January,Nifedipine,35,3479,0.94,100,34.79,0.009,1217.65,0.32,Sarah
+Robinah Bbosa,1,January,Nifedipine,425,3479,0.94,100,34.79,0.009,14785.75,3.83,Nakabugo
+Rodah Nabaabi,1,January,Nifedipine,60,3479,0.94,100,34.79,0.009,2087.4,0.54,Sarah
+Samiya Namadingidi,1,January,Nifedipine,67,3479,0.94,100,34.79,0.009,2330.93,0.6,Sarah
+Severino Ndikumagenge,1,January,Nifedipine,77,3479,0.94,100,34.79,0.009,2678.83,0.69,Sarah
+Teopista Naluwanga,1,January,Nifedipine,63,3479,0.94,100,34.79,0.009,2191.77,0.57,Claire
+Wilson Wamala,1,January,Nifedipine,64,3479,0.94,100,34.79,0.009,2226.56,0.58,Jimmy
+Yowakim Magajja,1,January,Nifedipine,520,3479,0.94,100,34.79,0.009,18090.8,4.68,Sarah
+Diana Katamba,2,February,Nifedipine,296,3479,0.94,100,34.79,0.009,10297.84,2.66,Nakabugo
+Fred Musoke,2,February,Nifedipine,504,3479,0.94,100,34.79,0.009,17534.16,4.54,Jimmy
+Lydia Musoke,2,February,Nifedipine,42,3479,0.94,100,34.79,0.009,1461.18,0.38,Jimmy
+Matia Macumi,2,February,Nifedipine,90,3479,0.94,100,34.79,0.009,3131.1,0.81,Sarah
+Matia Musisi,2,February,Nifedipine,61,3479,0.94,100,34.79,0.009,2122.19,0.55,Jimmy
+Safina  Nabanja,2,February,Nifedipine,91,3479,0.94,100,34.79,0.009,3165.89,0.82,Jimmy
+Salongo Seruwu,2,February,Nifedipine,42,3479,0.94,100,34.79,0.009,1461.18,0.38,Jimmy
+Silver Kakooza,2,February,Nifedipine,42,3479,0.94,100,34.79,0.009,1461.18,0.38,Jimmy
+Sofia Naggayi,2,February,Nifedipine,85,3479,0.94,100,34.79,0.009,2957.15,0.77,Joanne
+Teddy Nakato,2,February,Nifedipine,98,3479,0.94,100,34.79,0.009,3409.42,0.88,Joanne
+Agnes Nalubega,3,March,Nifedipine,62,3479,0.94,100,34.79,0.009,2156.98,0.56,Jimmy
+Alikisa Nakayi,3,March,Nifedipine,43,3479,0.94,100,34.79,0.009,1495.97,0.39,Jimmy
+Allen Namulindwa,3,March,Nifedipine,218,3479,0.94,100,34.79,0.009,7584.22,1.96,Jimmy
+Demon Makanaga,3,March,Nifedipine,392,3479,0.94,100,34.79,0.009,13637.68,3.53,Jimmy
+Gloria Namata,3,March,Nifedipine,84,3479,0.94,100,34.79,0.009,2922.36,0.76,Jimmy
+Nosiata Luyiga,3,March,Nifedipine,127,3479,0.94,100,34.79,0.009,4418.33,1.14,Jimmy
+Victor Nakawesa,3,March,Nifedipine,206,3479,0.94,100,34.79,0.009,7166.74,1.85,Jimmy
+Bukirwa Efrance,4,April,Nifedipine,236,3479,0.94,100,34.79,0.009,8210.44,2.12,Jimmy
+Dorah Nabukera,4,April,Nifedipine,60,3479,0.94,100,34.79,0.009,2087.4,0.54,Claire
+Fauzia Nakubulwa,4,April,Nifedipine,125,3479,0.94,100,34.79,0.009,4348.75,1.13,Claire
+Tereza Nakiyingi,4,April,Nifedipine,393,3479,0.94,100,34.79,0.009,13672.47,3.54,Jimmy
+Abdallah Katongole,5,May,Nifedipine,58,3479,0.94,100,34.79,0.009,2017.82,0.52,Jimmy
+Florence Nakacwa,5,May,Nifedipine,58,3479,0.94,100,34.79,0.009,2017.82,0.52,Jimmy
+Geoffrey Bugumya,5,May,Nifedipine,152,3479,0.94,100,34.79,0.009,5288.08,1.37,Jimmy
+Habiba Nalukwago,5,May,Nifedipine,124,3479,0.94,100,34.79,0.009,4313.96,1.12,Claire
+Harriet Nalweyiso,5,May,Nifedipine,197,3479,0.94,100,34.79,0.009,6853.63,1.77,Joanne
+Milly Nanteza,5,May,Nifedipine,170,3479,0.94,100,34.79,0.009,5914.3,1.53,Jimmy
+Misearch Yombo,5,May,Nifedipine,44,3479,0.94,100,34.79,0.009,1530.76,0.4,Claire
+Moses Kayige,5,May,Nifedipine,16,3479,0.94,100,34.79,0.009,556.64,0.14,Jimmy
+Prossy Nakiwewa,5,May,Nifedipine,68,3479,0.94,100,34.79,0.009,2365.72,0.61,Jimmy
+Ruth Matovu,5,May,Nifedipine,124,3479,0.94,100,34.79,0.009,4313.96,1.12,Jimmy
+Teddy Babumba,5,May,Nifedipine,407,3479,0.94,100,34.79,0.009,14159.53,3.66,Jimmy
+Benon Sentongo,6,June,Nifedipine,42,3479,0.94,100,34.79,0.009,1461.18,0.38,Sarah
+Chrizestom Okot,6,June,Nifedipine,60,3479,0.94,100,34.79,0.009,2087.4,0.54,Sarah
+Elizabeth Nankya,6,June,Nifedipine,102,3479,0.94,100,34.79,0.009,3548.58,0.92,Nakabugo
+Gladys Namuddu,6,June,Nifedipine,108,3479,0.94,100,34.79,0.009,3757.32,0.97,Nakabugo
+Janifer Akello,6,June,Nifedipine,415,3479,0.94,100,34.79,0.009,14437.85,3.74,Sarah
+Josephine Namuyiga,6,June,Nifedipine,120,3479,0.94,100,34.79,0.009,4174.8,1.08,Dr_Victoria
+Joyce Nakalyango,6,June,Nifedipine,140,3479,0.94,100,34.79,0.009,4870.6,1.26,Jimmy
+Mariafransca Namwanje,6,June,Nifedipine,30,3479,0.94,100,34.79,0.009,1043.7,0.27,Dr_Victoria
+Tausi Nalutaya,6,June,Nifedipine,193,3479,0.94,100,34.79,0.009,6714.47,1.74,Dr_Victoria
+Teddy  Nayiga,6,June,Nifedipine,64,3479,0.94,100,34.79,0.009,2226.56,0.58,Sarah
+Godfrey Mubiru,7,July,Nifedipine,15,3479,0.94,100,34.79,0.009,521.85,0.14,Dr_Victoria
+Jesca Nakabugo,7,July,Nifedipine,60,3479,0.94,100,34.79,0.009,2087.4,0.54,Dr_Victoria
+Musa Musulo,7,July,Nifedipine,191,3479,0.94,100,34.79,0.009,6644.89,1.72,Dr_Victoria
+Nulu Nanteza,7,July,Nifedipine,240,3479,0.94,100,34.79,0.009,8349.6,2.16,Sarah
+Rosemary Kyebamutula,7,July,Nifedipine,110,3479,0.94,100,34.79,0.009,3826.9,0.99,Dr_Victoria
+Sam Ntulume,7,July,Nifedipine,110,3479,0.94,100,34.79,0.009,3826.9,0.99,Dr_Victoria
+Teopista Kulyanyingi,7,July,Nifedipine,120,3479,0.94,100,34.79,0.009,4174.8,1.08,Dr_Victoria
+Zainah Nansubuga,7,July,Nifedipine,107,3479,0.94,100,34.79,0.009,3722.53,0.96,Nakabugo
+Catherine Nankya,8,August,Nifedipine,156,3479,0.94,100,34.79,0.009,5427.24,1.4,Dr_Victoria
+Clara Nakigudde,8,August,Nifedipine,110,3479,0.94,100,34.79,0.009,3826.9,0.99,Dr_Victoria
+Manjeri Mukalwengo,8,August,Nifedipine,91,3479,0.94,100,34.79,0.009,3165.89,0.82,Sarah
+Joan Nakisitu,2,February,Nystatin,17,14435.57,3.9,100,144.36,0.039,2454.12,0.66,Jimmy
+Jane Nalumu,4,April,Nystatin,6,14435.57,3.9,100,144.36,0.039,866.16,0.23,Jimmy
+Zainah Namasaaba,5,May,Nystatin,9,14435.57,3.9,100,144.36,0.039,1299.24,0.35,Jimmy
+Zerida Najjuka,7,July,Nystatin,94,14435.57,3.9,100,144.36,0.039,13569.84,3.67,Nakabugo
+Arafat Dulufu,1,January,Omeprazole,61,4200,1.14,100,42,0.011,2562,0.67,Jimmy
+Cissy Nakaye,1,January,Omeprazole,72,4200,1.14,100,42,0.011,3024,0.79,Sarah
+Isima Kigozi,1,January,Omeprazole,14,4200,1.14,100,42,0.011,588,0.15,Claire
+Justine Babirye,1,January,Omeprazole,15,4200,1.14,100,42,0.011,630,0.17,Nakabugo
+Ruth Kisakye,1,January,Omeprazole,66,4200,1.14,100,42,0.011,2772,0.73,Claire
+Said Ntege,1,January,Omeprazole,73,4200,1.14,100,42,0.011,3066,0.8,Sarah
+Saulo Kawolo,1,January,Omeprazole,58,4200,1.14,100,42,0.011,2436,0.64,Sarah
+YOKANA  BAZAMPOLA,1,January,Omeprazole,56,4200,1.14,100,42,0.011,2352,0.62,Sarah
+Annet Nakyagaba,2,February,Omeprazole,73,4200,1.14,100,42,0.011,3066,0.8,Sarah
+Margret Nakibuuka,2,February,Omeprazole,90,4200,1.14,100,42,0.011,3780,0.99,Jimmy
+Teopista Nankya,2,February,Omeprazole,59,4200,1.14,100,42,0.011,2478,0.65,Joanne
+ Serwano Nsereko,3,March,Omeprazole,84,4200,1.14,100,42,0.011,3528,0.92,Jimmy
+Francis Kigozi,3,March,Omeprazole,32,4200,1.14,100,42,0.011,1344,0.35,Jimmy
+Jane Ssali,3,March,Omeprazole,57,4200,1.14,100,42,0.011,2394,0.63,Jimmy
+Ritah Namatovu,3,March,Omeprazole,16,4200,1.14,100,42,0.011,672,0.18,Jimmy
+Rosemary Kigongo,3,March,Omeprazole,86,4200,1.14,100,42,0.011,3612,0.95,Jimmy
+Winnie Tasingika,3,March,Omeprazole,100,4200,1.14,100,42,0.011,4200,1.1,Joanne
+Annet Babirye,4,April,Omeprazole,30,4200,1.14,100,42,0.011,1260,0.33,Jimmy
+Fred Mukiibi,4,April,Omeprazole,47,4200,1.14,100,42,0.011,1974,0.52,Jimmy
+Christine Nakiyingi,5,May,Omeprazole,16,4200,1.14,100,42,0.011,672,0.18,Jimmy
+Rebecca Nankya,5,May,Omeprazole,20,4200,1.14,100,42,0.011,840,0.22,Jimmy
+Remmy Nsubuga,5,May,Omeprazole,11,4200,1.14,100,42,0.011,462,0.12,Jimmy
+Abdalla Senoga,6,June,Omeprazole,62,4200,1.14,100,42,0.011,2604,0.68,Sarah
+Hasifah Nangendo,6,June,Omeprazole,73,4200,1.14,100,42,0.011,3066,0.8,Sarah
+Deborah Kigozi,7,July,Omeprazole,22,4200,1.14,100,42,0.011,924,0.24,Nakabugo
+Dorothy Nakitto,7,July,Omeprazole,110,4200,1.14,100,42,0.011,4620,1.21,Dr_Victoria
+Josephine Gwokyalya,7,July,Omeprazole,80,4200,1.14,100,42,0.011,3360,0.88,Dr_Victoria
+Reginah Nambooze,7,July,Omeprazole,125,4200,1.14,100,42,0.011,5250,1.38,Sarah
+Ronald Ssempijja ,7,July,Omeprazole,58,4200,1.14,100,42,0.011,2436,0.64,Sarah
+Hussein Kalyowa,8,August,Omeprazole,40,4200,1.14,100,42,0.011,1680,0.44,Joanne
+Mega Nalubombwe,8,August,Omeprazole,70,4200,1.14,100,42,0.011,2940,0.77,Sarah
+Sarah Nansamba,8,August,Omeprazole,104,4200,1.14,100,42,0.011,4368,1.14,Sarah
+Zaitun Nassejje,8,August,Omeprazole,100,4200,1.14,100,42,0.011,4200,1.1,Dr_Victoria
+Anet Nabukenya,1,January,Paracetamol,36,2195.41,0.59,100,21.95,0.006,790.2,0.22,Jimmy
+Angella Nakamya,1,January,Paracetamol,18,2195.41,0.59,100,21.95,0.006,395.1,0.11,Jimmy
+Berna Nabanjala,1,January,Paracetamol,12,2195.41,0.59,100,21.95,0.006,263.4,0.07,Sarah
+Catherine Namukose,1,January,Paracetamol,36,2195.41,0.59,100,21.95,0.006,790.2,0.22,Nakabugo
+Davis Tulyamusiima,1,January,Paracetamol,42,2195.41,0.59,100,21.95,0.006,921.9,0.25,Nakabugo
+Eria Walusimbi,1,January,Paracetamol,12,2195.41,0.59,100,21.95,0.006,263.4,0.07,Sarah
+Hanifah Nyamwiza,1,January,Paracetamol,24,2195.41,0.59,100,21.95,0.006,526.8,0.14,Sarah
+JOWANA NSUBUGA,1,January,Paracetamol,125,2195.41,0.59,100,21.95,0.006,2743.75,0.75,Nakabugo
+Kamidah Babirye Nakayiza,1,January,Paracetamol,18,2195.41,0.59,100,21.95,0.006,395.1,0.11,Nakabugo
+Madinah Najjuma,1,January,Paracetamol,60,2195.41,0.59,100,21.95,0.006,1317,0.36,Jimmy
+Martilida Nagitta,1,January,Paracetamol,78,2195.41,0.59,100,21.95,0.006,1712.1,0.47,Claire
+Rahumah Nakyejwe,1,January,Paracetamol,32,2195.41,0.59,100,21.95,0.006,702.4,0.19,Nakabugo
+Sarah Nanyambi,1,January,Paracetamol,24,2195.41,0.59,100,21.95,0.006,526.8,0.14,Jimmy
+Zam Namitala,1,January,Paracetamol,71,2195.41,0.59,100,21.95,0.006,1558.45,0.43,Sarah
+Abdulswamadu Muyomba,2,February,Paracetamol,21,2195.41,0.59,100,21.95,0.006,460.95,0.13,Jimmy
+Asanasio Omali,2,February,Paracetamol,22,2195.41,0.59,100,21.95,0.006,482.9,0.13,Joanne
+Benson Sawula,2,February,Paracetamol,5,2195.41,0.59,100,21.95,0.006,109.75,0.03,Jimmy
+Elineo Ntege,2,February,Paracetamol,10,2195.41,0.59,100,21.95,0.006,219.5,0.06,Jimmy
+Elivanson Nagayi,2,February,Paracetamol,261,2195.41,0.59,100,21.95,0.006,5728.95,1.57,Nakabugo
+Esther Nambalilwa,2,February,Paracetamol,2,2195.41,0.59,100,21.95,0.006,43.9,0.01,Nakabugo
+Fahimah  Nabuyondo,2,February,Paracetamol,52,2195.41,0.59,100,21.95,0.006,1141.4,0.31,Nakabugo
+Francis Tamale,2,February,Paracetamol,7,2195.41,0.59,100,21.95,0.006,153.65,0.04,Nakabugo
+Grace Nakato,2,February,Paracetamol,173,2195.41,0.59,100,21.95,0.006,3797.35,1.04,Jimmy
+Ibrahim Musoke,2,February,Paracetamol,6,2195.41,0.59,100,21.95,0.006,131.7,0.04,Nakabugo
+Isma Bamutaze,2,February,Paracetamol,18,2195.41,0.59,100,21.95,0.006,395.1,0.11,Nakabugo
+Jonathan Kasoma,2,February,Paracetamol,2,2195.41,0.59,100,21.95,0.006,43.9,0.01,Joanne
+Noelline Nabakooza,2,February,Paracetamol,21,2195.41,0.59,100,21.95,0.006,460.95,0.13,Joanne
+Peter Lubega,2,February,Paracetamol,27,2195.41,0.59,100,21.95,0.006,592.65,0.16,Joanne
+Rahma Komugisha,2,February,Paracetamol,18,2195.41,0.59,100,21.95,0.006,395.1,0.11,Nakabugo
+Umar Sserwambala,2,February,Paracetamol,120,2195.41,0.59,100,21.95,0.006,2634,0.72,Nakabugo
+Christine Nansubuga,3,March,Paracetamol,70,2195.41,0.59,100,21.95,0.006,1536.5,0.42,Nakabugo
+Easther Namutebi,3,March,Paracetamol,36,2195.41,0.59,100,21.95,0.006,790.2,0.22,Nakabugo
+Margret Aliwebwa,3,March,Paracetamol,19,2195.41,0.59,100,21.95,0.006,417.05,0.11,Jimmy
+Maulisia Nanyondo,3,March,Paracetamol,78,2195.41,0.59,100,21.95,0.006,1712.1,0.47,Claire
+Peter Mayambala,3,March,Paracetamol,82,2195.41,0.59,100,21.95,0.006,1799.9,0.49,Jimmy
+Rose Nagitta,3,March,Paracetamol,22,2195.41,0.59,100,21.95,0.006,482.9,0.13,Nakabugo
+Victoria Ahurira,3,March,Paracetamol,8,2195.41,0.59,100,21.95,0.006,175.6,0.05,Jimmy
+Fred Kalyango,4,April,Paracetamol,53,2195.41,0.59,100,21.95,0.006,1163.35,0.32,Jimmy
+Husein Lugya,4,April,Paracetamol,36,2195.41,0.59,100,21.95,0.006,790.2,0.22,Jimmy
+Shaka Muzamuru,4,April,Paracetamol,37,2195.41,0.59,100,21.95,0.006,812.15,0.22,Jimmy
+James Musaazi,5,May,Paracetamol,11,2195.41,0.59,100,21.95,0.006,241.45,0.07,Jimmy
+Nvule Habaabu,5,May,Paracetamol,30,2195.41,0.59,100,21.95,0.006,658.5,0.18,Jimmy
+Andrew Lwanga,6,June,Paracetamol,37,2195.41,0.59,100,21.95,0.006,812.15,0.22,Nakabugo
+Elizabeth Nampa,6,June,Paracetamol,18,2195.41,0.59,100,21.95,0.006,395.1,0.11,Dr_Victoria
+Gertrude Nyadoi,6,June,Paracetamol,51,2195.41,0.59,100,21.95,0.006,1119.45,0.31,Joanne
+Hadijah Namirembe,6,June,Paracetamol,1,2195.41,0.59,100,21.95,0.006,21.95,0.01,Sarah
+Ibrahim Bagonzi,6,June,Paracetamol,16,2195.41,0.59,100,21.95,0.006,351.2,0.1,Nakabugo
+Jalia Namyalo,6,June,Paracetamol,34,2195.41,0.59,100,21.95,0.006,746.3,0.2,Jimmy
+Lovinsa Yiga,6,June,Paracetamol,12,2195.41,0.59,100,21.95,0.006,263.4,0.07,Sarah
+Najib Kigozi,6,June,Paracetamol,54,2195.41,0.59,100,21.95,0.006,1185.3,0.32,Dr_Victoria
+Nakato Olivia,6,June,Paracetamol,48,2195.41,0.59,100,21.95,0.006,1053.6,0.29,Jimmy
+Nakazzibwe Deisy,6,June,Paracetamol,36,2195.41,0.59,100,21.95,0.006,790.2,0.22,Nakabugo
+Sarah Najjuma,6,June,Paracetamol,70,2195.41,0.59,100,21.95,0.006,1536.5,0.42,Dr_Victoria
+Annet Nakawesa,7,July,Paracetamol,24,2195.41,0.59,100,21.95,0.006,526.8,0.14,Dr_Victoria
+Derrick Seruwagi,7,July,Paracetamol,49,2195.41,0.59,100,21.95,0.006,1075.55,0.29,Dr_Victoria
+Ethan Ssenyange,7,July,Paracetamol,5,2195.41,0.59,100,21.95,0.006,109.75,0.03,Sarah
+Jonathan Sewakiryanga,7,July,Paracetamol,65,2195.41,0.59,100,21.95,0.006,1426.75,0.39,Dr_Victoria
+Joshua Mukisa,7,July,Paracetamol,19,2195.41,0.59,100,21.95,0.006,417.05,0.11,Dr_Victoria
+Leticia Nakitende,7,July,Paracetamol,25,2195.41,0.59,100,21.95,0.006,548.75,0.15,Nakabugo
+Mariam Ndagano,7,July,Paracetamol,41,2195.41,0.59,100,21.95,0.006,899.95,0.25,Sarah
+Marion Nyakyo,7,July,Paracetamol,14,2195.41,0.59,100,21.95,0.006,307.3,0.08,Dr_Victoria
+Abdul Rahman Damuzungu,8,August,Paracetamol,9,2195.41,0.59,100,21.95,0.006,197.55,0.05,Sarah
+Gift Lapolo,8,August,Paracetamol,6,2195.41,0.59,100,21.95,0.006,131.7,0.04,Dr_Victoria
+Imran Kavuma,8,August,Paracetamol,2,2195.41,0.59,100,21.95,0.006,43.9,0.01,Dr_Victoria
+Kevine Nalweyiso,8,August,Paracetamol,10,2195.41,0.59,100,21.95,0.006,219.5,0.06,Sarah
+Misachi Tyaba,8,August,Paracetamol,22,2195.41,0.59,100,21.95,0.006,482.9,0.13,Sarah
+Veronica Nakiwala,8,August,Paracetamol,138,2195.41,0.59,100,21.95,0.006,3029.1,0.83,Dr_Victoria
+Gracekhan Sagane,2,February,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Jimmy
+Alfred Muwanguzi,3,March,Piritex Cough,2,2519.99,0.68,1,2519.99,0.68,5039.98,1.36,Jimmy
+Arafat Nsereko,3,March,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Jimmy
+Florence Namubiru,3,March,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Jimmy
+Abdul  Luyombya,6,June,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Sarah
+Katrina Amorit,6,June,Piritex Cough,11,2519.99,0.68,1,2519.99,0.68,27719.89,7.48,Jimmy
+Malcom Sekalongo,6,June,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Jimmy
+Nfitamushiza Dan,6,June,Piritex Cough,2,2519.99,0.68,1,2519.99,0.68,5039.98,1.36,Sarah
+Andrew Kyagulanyi,7,July,Piritex Cough,2,2519.99,0.68,1,2519.99,0.68,5039.98,1.36,Nakabugo
+Karen Ndagire,8,August,Piritex Cough,1,2519.99,0.68,1,2519.99,0.68,2519.99,0.68,Sarah
+David Mpande,1,January,Predinisoline,46,2801,0.76,100,28.01,0.008,1288.46,0.37,Jimmy
+Diana Nanono,2,February,Predinisoline,171,2801,0.76,100,28.01,0.008,4789.71,1.37,Jimmy
+Fred Setimba,3,March,Predinisoline,78,2801,0.76,100,28.01,0.008,2184.78,0.62,Jimmy
+Janat Nabacwa,3,March,Predinisoline,57,2801,0.76,100,28.01,0.008,1596.57,0.46,Jimmy
+Recheal Nansubuga,4,April,Predinisoline,20,2801,0.76,100,28.01,0.008,560.2,0.16,Claire
+Beatrice  Nambi,5,May,Predinisoline,108,2801,0.76,100,28.01,0.008,3025.08,0.86,Jimmy
+Brian Sekabembe,5,May,Predinisoline,35,2801,0.76,100,28.01,0.008,980.35,0.28,Jimmy
+Samuel Kyazze,7,July,Predinisoline,8,2801,0.76,100,28.01,0.008,224.08,0.06,Dr_Victoria
+Juliet Namujju,8,August,Predinisoline,14,2801,0.76,100,28.01,0.008,392.14,0.11,Dr_Victoria
+Puriteria Nayiga,8,August,Predinisoline,154,2801,0.76,100,28.01,0.008,4313.54,1.23,Dr_Victoria
+Robinah Nansubuga,8,August,Predinisoline,44,2801,0.76,100,28.01,0.008,1232.44,0.35,Dr_Victoria
+Abdul Rahman  Kasozi,1,January,Probeta_N,2,3420,0.92,1,3420,0.92,6840,1.84,Jimmy
+John Nyanzi,1,January,Probeta_N,19,3420,0.92,1,3420,0.92,64980,17.48,Jimmy
+Sirage Sentamu,1,January,Probeta_N,3,3420,0.92,1,3420,0.92,10260,2.76,Jimmy
+Hassan Matovu,3,March,Probeta_N,2,3420,0.92,1,3420,0.92,6840,1.84,Jimmy
+Elisa Kizza,5,May,Probeta_N,75,3420,0.92,1,3420,0.92,256500,69,Jimmy
+Shakirah Nalunkuma,5,May,Probeta_N,4,3420,0.92,1,3420,0.92,13680,3.68,Claire
+Elijah Musasizi,6,June,Probeta_N,42,3420,0.92,1,3420,0.92,143640,38.64,Dr_Victoria
+Filista Nabuuma,6,June,Probeta_N,30,3420,0.92,1,3420,0.92,102600,27.6,Dr_Victoria
+Simonpeter Semambo,7,July,Probeta_N,15,3420,0.92,1,3420,0.92,51300,13.8,Dr_Victoria
+Fina Nantaba,8,August,Probeta_N,41,3420,0.92,1,3420,0.92,140220,37.72,Dr_Victoria
+Annet Nabayego,1,January,Pyrodoxine Vit B 6,28,1785,0.48,100,17.85,0.005,499.8,0.14,Sarah
+Jane Namiro,7,July,Pyrodoxine Vit B 6,59,1785,0.48,100,17.85,0.005,1053.15,0.3,Sarah
+Margret Namutebi,8,August,Pyrodoxine Vit B 6,56,1785,0.48,100,17.85,0.005,999.6,0.28,Sarah
+Robinah Nakigudde,2,February,Quinine,84,18600,5.03,100,186,0.05,15624,4.2,Jimmy
+Aisha Nakitende,7,July,Quinine,38,18600,5.03,100,186,0.05,7068,1.9,Claire
+Christine Nakimuli,3,March,Salbutamol,123,1347,0.37,100,13.47,0.004,1656.81,0.49,Jimmy
+Nakitto Juliet,2,February,Tranexamic Acid,17,86400,23.36,100,864,0.234,14688,3.98,Jimmy
+Caroline Kwagala,6,June,Vit Bcomplex,46,1168,0.32,100,11.68,0.003,537.28,0.14,Dr_Victoria
+Alice  Nantale,7,July,Vit Bcomplex,28,1168,0.32,100,11.68,0.003,327.04,0.08,Dr_Victoria
+Fredrick Kasozi,7,July,Vit Bcomplex,63,1168,0.32,100,11.68,0.003,735.84,0.19,Dr_Victoria
+Ibrahim Nyombi,7,July,Vit Bcomplex,38,1168,0.32,100,11.68,0.003,443.84,0.11,Dr_Victoria
+Mary Kusigalawo,7,July,Vit Bcomplex,28,1168,0.32,100,11.68,0.003,327.04,0.08,Dr_Victoria
+John Kiviri,8,August,Vit Bcomplex,76,1168,0.32,100,11.68,0.003,887.68,0.23,Dr_Victoria
+Robinah  Nakate,8,August,Vit Bcomplex,120,1168,0.32,100,11.68,0.003,1401.6,0.36,Dr_Victoria
+Hope Kyomugisha,2,February,Vitamin A,9,13200,3.57,30,440,0.119,3960,1.07,Jimmy
+Jonathan Muwanguzi,5,May,Vitamin A,6,13200,3.57,30,440,0.119,2640,0.71,Jimmy
+Derick Kato,7,July,Vitamin A,1,13200,3.57,30,440,0.119,440,0.12,Dr_Victoria
+Joram Kalema,2,February,Zinkora Kit,4,1620,0.44,10,162,0.044,648,0.18,Jimmy
+Lydia Nansubuga,2,February,Zinkora Kit,19,1620,0.44,10,162,0.044,3078,0.84,Jimmy
+Amina Nalugwa,8,August,Zinkora Kit,2,1620,0.44,10,162,0.044,324,0.09,Dr_Victoria
