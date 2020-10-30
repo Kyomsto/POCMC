@@ -203,6 +203,8 @@ if dataset_name == "Cura Medical Center 2019":
         st.pyplot(fig)
         st. write("""
                   ### July and May were the most active months for the medical center.
+                  """)
+        st. write("""
                       * July is the coldest month in Uganda, with an average low-temperature of 62.8°F(17.1°C).
                       * May is the last month of spring and wet season. It is also the most humid month, which can lead to an increase in mosquitoes.
                       * Mosquitoes love moisture and humidity and can seem even more aggressive after a storm. - ORTHO WEBSITE
